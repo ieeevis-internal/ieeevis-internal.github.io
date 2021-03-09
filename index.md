@@ -53,6 +53,7 @@ All generic email addresses below end with @ieeevis.org !
   * [inclusivity](mailto:inclusivity@ieeevis.org) 
   * [publications](mailto:publications@ieeevis.org)
    
+
 * Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
   * [papers](mailto:papers@ieeevis.org)  (all V-I-S)
   * [posters](mailto:posters@ieeevis.org) (all V-I-S) 
@@ -61,12 +62,23 @@ All generic email addresses below end with @ieeevis.org !
   * [vis_shortpapers](mailto:vis_shortpapers@ieeevis.org)
   * [sc_liaisons](mailto:sc_liaisons@ieeevis.org) 
 
+
+* Area Curation Committee
+ * Area 1: [Theoretical & Empirical](theory-empirical-apc@ieeevis.org)
+ * Area 2: [Applications](applications-apc@ieeevis.org) 
+ * Area 3: [Systems & Rendering](systems-rendering-apc@ieeevis.org)  
+ * Area 4: [Representations & Interaction](representations-interaction-apc@ieeevis.org)
+ * Area 5: [Data Transformations](data-transformations-apc@ieeevis.org) 
+ * Area 6: [Analytics & Decisions](analytics-decisions-apc@ieeevis.org)
+
+
 * Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
   * [sv](mailto:sv@ieeevis.org) (Student volunteers)
   * [meetups](meetups@ieeevis.org) (all V-I-S)
   * [ff](mailto:ff@ieeevis.org) (Video and Fast forward all V-I-S)
   * [web](mailto:web@ieeevis.org) 
   * [open_practices](mailto:open_practices@ieeevis.org)
+
 
 * Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
   * [workshops](mailto:workshops@ieeevis.org)  (all V-I-S)
@@ -81,6 +93,7 @@ All generic email addresses below end with @ieeevis.org !
   * [biovis_challenge](mailto:biovis_challenge@ieeevis.org) 
   * [application_spotlights](mailto:application_spotlights@ieeevis.org) 
   * [vip](mailto:vip@ieeevis.org) 
+
 
 * Outreach ([outreach](mailto:outreach@ieeevis.org))
   * [supporters](mailto:supporters@ieeevis.org) (all V-I-S)
