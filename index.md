@@ -1,46 +1,45 @@
 VIS 2021 Knowledge Base
 =====
 
-Information from last year's conference organization can be found at the [2020 Knowledge Base](https://sites.google.com/site/ieeevisconfmgmt/) and should be used to complete the chair reports . 
-
-Please work with your co-chairs [2021_roster](link to make) to update the document associated with your Organizing Committee position. 
-
-Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org) , or submit a pull request [https://github.com/ieeevis-internal/ieeevis-internal.github.io](on github).
-
-Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
+Information from last year's conference organization can be found at the [2020 Knowledge Base](https://sites.google.com/site/ieeevisconfmgmt/) and should be used to complete the chair reports. Please work with your co-chairs [2021_roster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907) to update the document associated with your Organizing Committee position.  Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org) , or submit a pull request [on git hub](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
 
 
 Meetings
 --------
 
- Attention: ↓ Please add your agenda items and comments before each call.
+ * OC Calls and Meetings - **8am PT, 11am ET, 5pm CET**
+ * Joining the Calls: 
+  * Via zoom  : 
+[https://tulane.zoom.us/j/93558568111?pwd=dllXbGpaSWNYS3J1S09WcVgxVG5IQT09](https://tulane.zoom.us/j/93558568111?pwd=dllXbGpaSWNYS3J1S09WcVgxVG5IQT09)
+  * Via phone : 
+    * +16465588656,,93558568111# US (New York)
+    * +13017158592,,93558568111# US (Washington D.C)
+  * find a local number : https://tulane.zoom.us/u/ak7ezJ9vy 
+ * Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0)
+ * Meeting Minutes: [Google Drive](https://drive.google.com/drive/u/0/folders/11a7jbByTX7oacxB9eDH21GCBBakj4-G1)  
 
- * OC Calls and Meetings - 8am PT, 11am ET, 5pm CET
- * 2021 Call Schedule: Spreadsheet | Calendar
- * 2021 Meeting Minutes: Google Drive  
+
+Attention: Please **add your agenda items** and comments in the Meeting Minutes documents before each call.
 
 
-Calendar 
-----------------------
-
-
-
-VIS 2021 Website
+Online presence
 ------------
 
-* 2021 Kickoff slides: here
+<!--
+* Kickoff slides: here
 * Important Dates Document: here
+-->
 
-Webpage:
+* website live: [ieeevis.org](ieeevis.org)
+* website preview: [staging.ieeevis.org](staging.ieeevis.org)
+* Slack channel : [vis2021workspace.slack.com](vis2021workspace.slack.com)
+* twitter : [@ieeevis](https://twitter.com/ieeevis)
 
-* live: [ieeevis.org](ieeevis.org)
-* preview: [staging.ieeevis.org](staging.ieeevis.org)
 
-
-VIS 2021 Quick Contacts
+Quick Contacts
 -----------------
 
-Roster 2020: [here]()
+Roster: [here](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907)
 
 All generic email addresses below end with @ieeevis.org !
 
@@ -89,5 +88,29 @@ All generic email addresses below end with @ieeevis.org !
   * [publicity](mailto:publicity@ieeevis.org)  (all V-I-S)
 
 
+Documents 
+----------------------
 
+* [Roster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907) 
+* [Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0)
+* [Meeting minutes folder](https://drive.google.com/drive/u/0/folders/11a7jbByTX7oacxB9eDH21GCBBakj4-G1)  
+* [Infodumps of 2020](https://drive.google.com/drive/u/0/folders/178IERHWBaE9vETwlt_IsfKaAOvl9ZMf2)
+* [Infodumps of 2019](https://drive.google.com/drive/u/0/folders/1P7YcmoY96kTkSbb0TUj-VWmsnd9uwmsP)
+<!-- below I copy the title of the folder from the previous website but do not know what they refere to
+--> 
+* Kick off presentation 
+* New Bids 
+* Roles
+* Running the conference schedule 
+* TVCG
+
+
+
+Calendar 
+----------------------
+
+
+<iframe src="https://calendar.google.com/calendar/embed?src=ieeevisconfmgmt%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+[ical format](https://calendar.google.com/calendar/ical/ieeevisconfmgmt%40gmail.com/public/basic.ics)
 
