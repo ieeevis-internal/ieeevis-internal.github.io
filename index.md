@@ -8,13 +8,7 @@ Meetings
 --------
 
  * OC Calls and Meetings - **8am PT, 11am ET, 5pm CET**
- * Joining the Calls: 
-  * Via zoom  : 
-[https://tulane.zoom.us/j/93558568111?pwd=dllXbGpaSWNYS3J1S09WcVgxVG5IQT09](https://tulane.zoom.us/j/93558568111?pwd=dllXbGpaSWNYS3J1S09WcVgxVG5IQT09)
-  * Via phone : 
-    * +16465588656,,93558568111# US (New York)
-    * +13017158592,,93558568111# US (Washington D.C)
-  * find a local number : https://tulane.zoom.us/u/ak7ezJ9vy 
+ * Joining the Calls: (confidential)
  * Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0)
  * Meeting Minutes: [Google Drive](https://drive.google.com/drive/u/0/folders/11a7jbByTX7oacxB9eDH21GCBBakj4-G1)  
 
