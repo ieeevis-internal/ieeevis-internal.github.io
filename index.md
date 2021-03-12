@@ -53,6 +53,7 @@ All generic email addresses below end with @ieeevis.org !
   * [inclusivity](mailto:inclusivity@ieeevis.org) 
   * [publications](mailto:publications@ieeevis.org)
    
+* Overall Paper Chairs + Area Curation Committee [ppc](pcc@ieeevis.org)
 
 * Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
   * [papers](mailto:papers@ieeevis.org)  (all V-I-S)
@@ -63,13 +64,13 @@ All generic email addresses below end with @ieeevis.org !
   * [sc_liaisons](mailto:sc_liaisons@ieeevis.org) 
 
 
-* Area Curation Committee
- * Area 1: [Theoretical & Empirical](theory-empirical-apc@ieeevis.org)
- * Area 2: [Applications](applications-apc@ieeevis.org) 
- * Area 3: [Systems & Rendering](systems-rendering-apc@ieeevis.org)  
- * Area 4: [Representations & Interaction](representations-interaction-apc@ieeevis.org)
- * Area 5: [Data Transformations](data-transformations-apc@ieeevis.org) 
- * Area 6: [Analytics & Decisions](analytics-decisions-apc@ieeevis.org)
+* Area Curation Committee ([apc](mailto:apc@ieeevis.org))
+  * Area 1: [Theoretical & Empirical](theory-empirical-apc@ieeevis.org)
+  * Area 2: [Applications](applications-apc@ieeevis.org) 
+  * Area 3: [Systems & Rendering](systems-rendering-apc@ieeevis.org)  
+  * Area 4: [Representations & Interaction](representations-interaction-apc@ieeevis.org)
+  * Area 5: [Data Transformations](data-transformations-apc@ieeevis.org) 
+  * Area 6: [Analytics & Decisions](analytics-decisions-apc@ieeevis.org)
 
 
 * Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
