@@ -53,6 +53,7 @@ All generic email addresses below end with @ieeevis.org !
   * [inclusivity](mailto:inclusivity@ieeevis.org) 
   * [publications](mailto:publications@ieeevis.org)
 
+
 * Overall Paper Chairs  [opc](opc@ieeevis.org)
    
 * Overall Paper Chairs + Area Paper Chairs [pcc](pcc@ieeevis.org)
@@ -66,7 +67,7 @@ All generic email addresses below end with @ieeevis.org !
   * [sc_liaisons](mailto:sc_liaisons@ieeevis.org) 
 
 
-* Area Curation Committee ([apc](mailto:apc@ieeevis.org))
+* Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
   * Area 1: [Theoretical & Empirical](theory-empirical-apc@ieeevis.org)
   * Area 2: [Applications](applications-apc@ieeevis.org) 
   * Area 3: [Systems & Rendering](systems-rendering-apc@ieeevis.org)  
