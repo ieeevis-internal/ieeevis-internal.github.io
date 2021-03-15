@@ -29,7 +29,6 @@ Online presence
 * Website editing instruction:[http://ieeevis.org/instructions](http://ieeevis.org/instructions)
 * Slack channel : [vis2021workspace.slack.com](vis2021workspace.slack.com)
 * Twitter : [@ieeevis](https://twitter.com/ieeevis)
-* Important Dates Document: [doc](https://docs.google.com/spreadsheets/d/1mJvL8I0xOKsQkFrlcaUtEtI5XFPDlk9Zmepj4UEIDMc/edit#gid=0)
 
 
 Quick Contacts
@@ -106,6 +105,7 @@ Documents
 
 * [Roster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907) 
 * [Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0)
+* [Important Dates Document](https://docs.google.com/spreadsheets/d/1mJvL8I0xOKsQkFrlcaUtEtI5XFPDlk9Zmepj4UEIDMc/edit#gid=0)
 * [Meeting minutes folder](https://drive.google.com/drive/u/0/folders/11a7jbByTX7oacxB9eDH21GCBBakj4-G1)  
 * [Infodumps of 2020](https://drive.google.com/drive/u/0/folders/178IERHWBaE9vETwlt_IsfKaAOvl9ZMf2)
 * [Infodumps of 2019](https://drive.google.com/drive/u/0/folders/1P7YcmoY96kTkSbb0TUj-VWmsnd9uwmsP)
