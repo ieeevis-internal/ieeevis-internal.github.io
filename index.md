@@ -21,13 +21,14 @@ Online presence
 
 <!--
 * Kickoff slides: here
-* Important Dates Document: here
+* 
 -->
 
 * website live: [ieeevis.org](ieeevis.org)
 * website preview: [staging.ieeevis.org](staging.ieeevis.org)
 * Slack channel : [vis2021workspace.slack.com](vis2021workspace.slack.com)
 * twitter : [@ieeevis](https://twitter.com/ieeevis)
+* Important Dates Document: [doc](https://docs.google.com/spreadsheets/d/1mJvL8I0xOKsQkFrlcaUtEtI5XFPDlk9Zmepj4UEIDMc/edit#gid=0)
 
 
 Quick Contacts
