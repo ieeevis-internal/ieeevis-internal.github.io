@@ -24,10 +24,11 @@ Online presence
 * 
 -->
 
-* website live: [ieeevis.org](ieeevis.org)
-* website preview: [staging.ieeevis.org](staging.ieeevis.org)
+* Website live: [ieeevis.org](ieeevis.org)
+* Website preview: [staging.ieeevis.org](staging.ieeevis.org)
+* Website editing instruction:[http://ieeevis.org/instructions](http://ieeevis.org/instructions)
 * Slack channel : [vis2021workspace.slack.com](vis2021workspace.slack.com)
-* twitter : [@ieeevis](https://twitter.com/ieeevis)
+* Twitter : [@ieeevis](https://twitter.com/ieeevis)
 * Important Dates Document: [doc](https://docs.google.com/spreadsheets/d/1mJvL8I0xOKsQkFrlcaUtEtI5XFPDlk9Zmepj4UEIDMc/edit#gid=0)
 
 
