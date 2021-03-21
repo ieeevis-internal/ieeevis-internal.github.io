@@ -119,11 +119,11 @@ Documents
 
 
 
-Calendar 
+<!-- Calendar 
 ----------------------
 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=ieeevisconfmgmt%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-[ical format](https://calendar.google.com/calendar/ical/ieeevisconfmgmt%40gmail.com/public/basic.ics)
+[ical format](https://calendar.google.com/calendar/ical/ieeevisconfmgmt%40gmail.com/public/basic.ics) -->
 
