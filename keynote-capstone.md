@@ -14,6 +14,17 @@ Archives of Keynotes and capstones at VIS
 | 2012          | Mary Czerwinski    | Felice C. Frankel  |
 | 2011          | Paul Thagard       | Amanda Cox         |
 | 2010          | Mary Hegarty       | 	Alex Szalay    |
+| 2009          | ___                |  ___________    |
+| 2008          | ___                |  ___________    |
+| 2007          | ___                |  ___________    |
+| 2006          | ___                |  ___________    |
+| 2005          | ___                |  ___________    |
+| 2004          | ___                |  ___________    |
+| 2003          | ___                |  ___________    |
+| 2002          | ___                |  ___________    |
+| 2001          | ___                |  ___________    |
+| 2000          | Michael Cohen      | 	Olivier Faugeras    |
+| 1999          | Paul Smith and John van Rosendale                |  Rick Stevens    |
 
 
 
