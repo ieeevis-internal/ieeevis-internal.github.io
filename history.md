@@ -4,7 +4,7 @@ VIS archives
 
 # Tutorial 
 
-* [2020](http://ieeevis.org/year/2020/info/tutorials)          
+* [2020](http://ieeevis.org/year/2020/info/tutorials)    
   * Visualization Analysis and Design
   * Color Basics for Creating Visualizations
   * ParaView Tutorial
@@ -227,87 +227,6 @@ VIS archives
   * From Perceptual Psychophysics to Graphic Design
   * Advanced Methods in Visualization
   * Visualization Toolkits: Applications and Techniques
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- 
 
