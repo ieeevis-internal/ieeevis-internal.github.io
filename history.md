@@ -2,8 +2,6 @@ VIS archives
 =====
 
 
-
-
 # Tutorial 
 
 * [2020](http://ieeevis.org/year/2020/info/tutorials)          
@@ -151,8 +149,88 @@ VIS archives
   * Texture and Feature-Based Flow Visualization
   * Color in Information Display
   * Modern Parallel Coordinates: Relational Information --> Clear Patterns
-* [2005](http://vis.computer.org/vis2006/session/tutorials.html)
+* [2005](http://vis.computer.org/vis2005/session/tutorials.html)
   * General Purpose Computation on Graphics Hardware
+  * Visual Medicine Part 1 – Medical Imaging Techniques
+  * Visual Medicine Part 2 – Advanced Applications of Medical Imaging
+  * Point Lattices in Computer Graphics and Visualization
+  * Illustrative Visualization
+  * Level Set and PDE Methods for Visualization
+  * Visualization and Mining of Temporal Data
+  * Color in Information Display
+* [2004](http://vis.computer.org/vis2004/session/tutorials.html)
+  * Information Visualization and Discovery
+  * Procedural Encoding of Scattered Data, Theory and Applications
+  * GPGPU: General Purpose Computation on Graphics Processors
+  * Advanced Virtual Medicine: Techniques and Applications for Medicine-Oriented Visualization
+  * An Introduction to Visualization using VTK
+  * Interactive Texture-Based Flow Visualization
+  * Feature Oriented Methods in Flow Visualization
+* [2003](http://vis.computer.org/vis2003/session/tutorials.html)
+  * Interactive Visualization of Volumetric Data on Consumer PC Hardware
+  * Integrating Visualization with Data Mining and Knowledge Discovery for High Dimensional Data Exploration and Discovery
+  * Multi-Resolution Modeling, Visualization and Compression of Volumetric Data
+  * Out-of-Core Algorithms for Scientific Visualization and Computer Graphics
+  * Medical Visualization with ITK. How to Integrate the Insight Toolkit into Visualization Applications
+  * Tutorial on Network Visualization
+  * Advanced Virtual Medicine: Techniques and Applications for Virtual Endoscopy and Soft-Tissue-Simulation
+* [2002](http://vis.computer.org/vis2002/program/tutorials_p.html)
+  * Information Visualization, Visual Data Mining, and Its Application to Drug Design
+  * High-Quality Volume Graphics on Consumer PC Hardware 
+  * State of the Art in Data Representation for Visualization
+  * Out-of-Core Algorithms for Scientific Visualization and Computer Graphics 
+  * Integrating Visualization with Modeling and Simulation for Biomedical Applications
+  * Visualizing the Human Body with ITK and VTK
+  * Psychometrics 101: How to Design, Conduct, and Analyze Perceptual Studies of Computer Graphics Visualization Techniques
+* [2001](http://vis.computer.org/vis2001/files/FP_proof_2001.pdf)
+  * Large scale data visualization and rendering
+  * information visualization for beginners
+  * Rendering and visualization in Parallel Environements 
+  * Multiresolution Techniques for Surfaces and Volumes 
+  * From Transfer functions to level sets: Advanced topics in Volume Image processing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
