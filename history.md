@@ -188,6 +188,66 @@ VIS archives
   * Rendering and visualization in Parallel Environements 
   * Multiresolution Techniques for Surfaces and Volumes 
   * From Transfer functions to level sets: Advanced topics in Volume Image processing
+* [2000](https://www.hpc.msstate.edu/conferences/vis00/tutorials.html)
+  * Multiresolution Techniques for Surfaces and Volumes
+  * An Introduction to Information Visualization Techniques for Exploring 
+  * The Convergence of Scientific Visualization Methods with the World Wide 
+  * Visualization Toolkits: Applications and Techniques
+  * An Interactive Introduction to OpenGL Programming
+  * Image Processing for Volume Graphics and Analysis
+  * Rendering and Visualization in Parallel Environments
+* [1999](https://www.hpc.msstate.edu/conferences/vis99/program/tutorials.htm)
+  * Introduction to Graphics Programming with Java3D
+  * Interactive Visualization and Web-based Exploration in the Physical and Natural Sciences
+  * Clifford Algebra, Quaternions and Their Use in Physics and Visualization
+  * Visualization Toolkits: Applications and Techniques
+  * Feature Extraction and Visualization of Time-Dependent Flow Fields
+* [1998](https://www.hpc.msstate.edu/conferences/vis98/fp/fp.html)
+  * Wavelet and Numerical Methods for Visualization
+  * Visualization Toolkits: Applications and Techniques
+  * Introduction to Programming with Java 3D
+  * Perception for Visualization: From Design To Evaluation
+  * Interactive Visualization and Web-based Exploration in the Physical and Natural Sciences
+  * Level-Of-Detail in Surface and Volume Modeling
+  * Clifford Algebra, Quaternions and their Applications in Visualization
+* [1997](https://www.hpc.msstate.edu/conferences/vis97/)
+  * Introduction to VRML
+  * Introduction to Visualization
+  * Overview to Visualization with AVS/Express
+  * Volume Visualization: Principles and Practice
+  * Wavelet and Numerical Methods for Visualization
+  * Perceptions for Visualization: From Design to Evaluation
+  * Visualization Toolkits: Applications and Techniques
+  * Interactive Visualization and Web Based Exploration
+* [1996](https://www.hpc.msstate.edu/conferences/vis96/fp/fp.html)
+  * Volume Visualization Algorithms and Applications
+  * Introduction to Visualization
+  * Interactive Web Programming
+  * Visualization in the Physical Sciences
+  * From Perceptual Psychophysics to Graphic Design
+  * Advanced Methods in Visualization
+  * Visualization Toolkits: Applications and Techniques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
