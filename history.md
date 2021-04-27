@@ -71,7 +71,46 @@ VIS archives
   * Answering Questions We Did Not Know How to Ask
 * [2013](http://ieeevis.org/year/2013/tutorial-session/all/all)
   * Grooming the Hairball. How to Tidy up Network Visualizations?  
-
+  * State-of-the-Art Flow Field Analysis and Visualization
+  * Visualization of Data as Visual Interpretation of Data. Hands-on Design Tutorial.
+  * Visualization and Analytics in Python
+  * User-Centered Evaluation in Visualization
+  * Interactive Visual Analysis of Scientific Data
+  * Mobile and cloud Web-based graphics and visualization
+  * Visualization: A Modern Perspective
+  * Video Visualization
+* [2012](http://ieeevis.org/year/2012/tutorial-session/all/all)
+  * Natural Language Processing for Text Visualization
+  * Perception and Cognition for Imaging, Visualization, Visual Data Analysis and Computer Graphics
+  * Visualizing data in R and ggobi
+  * Connecting the Dots – Showing Relationships in Data and Beyond
+  * Introduction to Data Visualization on the Web with D3.js
+  * Uncertainty and Parameter Space Analysis in Visualization
+  * Good practice of visual communication design in scientific and data visualization
+  * Color Theory Methods for Visualization
+  * Interactive Visual Analysis of Scientiﬁc Data
+* [2011](http://ieeevis.org/year/2011/tutorial-session/all/all)
+  * Applications of Information Theory to Scientific Visualization
+  * Perception and Cognition for Visualization, Visual Data Analysis and Computer Graphics
+  * Quantitative and Qualitative Methods for Human-Subject Visualization Experiments.
+  * Applying Color Theory to Visualization
+* [2010](http://vis.computer.org/VisWeek2010/session/tutorials.html)
+  * Machine Learning for Information Visualization
+  * Applying Color Theory to Visualization
+  * Visualizing Data in R
+  * DIY Vis Applications
+  * Large Vector-Field Visualization
+  * The PhD in Visualization Starter Kit (PVSK)
+  * Tensors in Visualization
+* [2010](http://vis.computer.org/VisWeek2009/session/tutorials.html)
+  * Scalar Topology in Visual Data Analysis
+  * Provenance-Enabled Data Exploration and Visualization
+  * Interactive Massive Model Rendering
+  * Visualization and Analysis Using VisIt
+  * Advanced ParaView Visualization
+  * Multivariate Temporal Features in Scientific Data
+  * Visualization of Time-Varying Vector Fields
+  * Exploring Design Decisions for Effective Information Visualization
 
 
 
