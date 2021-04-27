@@ -6,8 +6,9 @@ VIS archives
 
 # Tutorial 
 
-
 * 2020          
+  * 
+* [2019](https://ieeevis.org/year/2018/info/tutorials)          
   * Topological Data Analysis Made Easy with the Topology ToolKit, A Sequel
   * Visualizing Multivariate Networks
   * VTK-m - A ToolKit for Scientific Visualization on Many-Core Processors
@@ -17,6 +18,8 @@ VIS archives
   * Beyond Paper Types: How to Evaluate and Communicate VIS Research Contributions
   * Visualization for Social Good
   * User-Centred Evaluation in Visualization
+* 2018 https://ieeevis.org/year/2018/info/tutorials
+  *            
 
 
 
