@@ -58,8 +58,20 @@ VIS archives
   * The ParaView Tutorial
   * Applying Color Theory to VIS
   * Visualization Analysis and Design
-* [2014](http://ieeevis.org/year/2014/info/overview-amp-topics/tutorials)
-  * 
+* [2014](http://ieeevis.org/year/2014/info/overview-amp-topics/accepted-tutorials)
+  * Visualization Analysis and Design
+  * Opening the Black Box of Interaction in Visualization
+  * Visualization and Analysis with Python
+  * "Where Do I Start?" Practical Methods for the Design Studies in Information Visualization and Visual Analysis
+  * Applying Color Theory to Visualization
+  * Best Practice of Visual Design. A Hands-on Tutorial for Data Explorers and Visual Makers
+  * Glyph-based Visualization
+  * Everything Except the Chart: Developing Complex Web-based Visualizations
+  * Introduction to Tensor Field Visualization: Concepts, Processing and Visualization
+  * Answering Questions We Did Not Know How to Ask
+* [2013](http://ieeevis.org/year/2013/tutorial-session/all/all)
+  * Grooming the Hairball. How to Tidy up Network Visualizations?  
+
 
 
 
