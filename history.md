@@ -6,8 +6,15 @@ VIS archives
 
 # Tutorial 
 
-* 2020          
-  * 
+* [2020](http://ieeevis.org/year/2020/info/tutorials)          
+  * Visualization Analysis and Design
+  * Color Basics for Creating Visualizations
+  * ParaView Tutorial
+  * How to Make Your Empirical Research Transparent
+  * Theory and Application of Visualization Color Tools and Strategies
+  * Scientific Visualization in Houdini: How to use Visual Effects Software for a Cinematic Presentation of Science
+  * Topological Data Analysis Made Easy with the Topology ToolKit, What is New?
+  * Artifact-Based Rendering: VR Visualization by Hand
 * [2019](https://ieeevis.org/year/2018/info/tutorials)          
   * Topological Data Analysis Made Easy with the Topology ToolKit, A Sequel
   * Visualizing Multivariate Networks
