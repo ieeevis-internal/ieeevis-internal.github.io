@@ -109,7 +109,7 @@ VIS archives
   * Large Vector-Field Visualization
   * The PhD in Visualization Starter Kit (PVSK)
   * Tensors in Visualization
-* [2010](http://vis.computer.org/VisWeek2009/session/tutorials.html)
+* [2009](http://vis.computer.org/VisWeek2009/session/tutorials.html)
   * Scalar Topology in Visual Data Analysis
   * Provenance-Enabled Data Exploration and Visualization
   * Interactive Massive Model Rendering
@@ -118,6 +118,55 @@ VIS archives
   * Multivariate Temporal Features in Scientific Data
   * Visualization of Time-Varying Vector Fields
   * Exploring Design Decisions for Effective Information Visualization
+* [2008](http://vis.computer.org/VisWeek2008/session/tutorials.html)
+  * Perception-Driven Techniques for Effective Visualization of Large Volume Data
+  * Information Visualization with VTK
+  * Color in Information Display: From Theory to Practice
+  * Mashup Visualization with Google Earth and GIS
+  * Part I: Experimental Design and Analysis for Human-Subject Visualization Experiments / Part II: Perceptual Issues for Visualization and Evaluation
+  * Advanced Paraview Visualization
+  * GPU-Based Volume Ray-Casting with Advanced Illumination
+  * Interactive Lattice-Based Flow Simulation and Visualization
+  * Functional Streaming
+  * Advanced Visual Medicine: Techniques for Visual Exploration & Analysis
+* [2007](http://vis.computer.org/vis2007/session/tutorials.html)
+  * Introduction to Level Set Methods, Data Structures and Efficient Algorithms
+  * Color in Information Display
+  * Experimental Design and Analysis for Human-Subject Visualization Experiments
+  * Level Set Applications for Visualization
+  * Perceptual Issues for Visualization and Evaluation
+  * GeoVisualization with Google Earth and GIS
+  * Illustrative Display and Interaction in Visualization
+  * Introduction to Visual Medicine: Techniques, Applications and Software
+  * Scope and Challenges of Visual Analytics
+  * Advanced Visual Medicine: Techniques, Applications and Software
+  * Bridging the Chasm between InfoVis Research and the World Out There
+  * Statistical Graphics for High-D Data
+* [2006](http://vis.computer.org/vis2006/session/tutorials.html)
+  * Visual Medicine: Techniques, Applications and Software
+  * Remote/Collaborative TeraScale Visualization on the TeraGrid
+  * Illustrative Visualization for Medicine and Science
+  * Level Set Methods for Visualization
+  * Experimental Design and Analysis for Human-Subject Visualization Experiments
+  * Texture and Feature-Based Flow Visualization
+  * Color in Information Display
+  * Modern Parallel Coordinates: Relational Information --> Clear Patterns
+* [2005](http://vis.computer.org/vis2006/session/tutorials.html)
+  * General Purpose Computation on Graphics Hardware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
