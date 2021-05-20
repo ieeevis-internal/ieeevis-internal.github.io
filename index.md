@@ -45,8 +45,6 @@ All generic email addresses below end with @ieeevis.org !
   * [archive](mailto:archive@ieeevis.org) 
   * [incoming_chairs](mailto:incoming_chairs@ieeevis.org)
   * [vec_chair](mailto:vec_chair@ieeevis.org) 
-  * [inclusivity](mailto:inclusivity@ieeevis.org) 
-  * [publications](mailto:publications@ieeevis.org)
 
 
 * Overall Paper Chairs  [opc](mailto:opc@ieeevis.org)
