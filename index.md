@@ -107,13 +107,21 @@ Documents
 * [Meeting minutes folder](https://drive.google.com/drive/u/0/folders/11a7jbByTX7oacxB9eDH21GCBBakj4-G1)  
 * [Infodumps of 2020](https://drive.google.com/drive/u/0/folders/178IERHWBaE9vETwlt_IsfKaAOvl9ZMf2)
 * [Infodumps of 2019](https://drive.google.com/drive/u/0/folders/1P7YcmoY96kTkSbb0TUj-VWmsnd9uwmsP)
+
+
+
+Archive of this page for previous years 
+----------------------
+
+* [2021](2021.md) 
 <!-- below I copy the title of the folder from the previous website but do not know what they refere to
---> 
 * Kick off presentation 
 * New Bids 
 * Roles
 * Running the conference schedule 
 * TVCG
+
+--> 
 
 
 
