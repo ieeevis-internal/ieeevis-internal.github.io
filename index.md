@@ -1,16 +1,16 @@
-VIS 2021 Knowledge Base
+VIS 2022 Knowledge Base
 =====
 
-Information from last year's conference organization can be found at the [2020 Knowledge Base](https://sites.google.com/site/ieeevisconfmgmt/) and should be used to complete the chair reports. Please work with your co-chairs [2021_roster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907) to update the document associated with your Organizing Committee position.  Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org) , or submit a pull request [on git hub](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
+Information from last year's conference organization can be found at the [2022 Knowledge Base (TBD)](#) and should be used to complete the chair reports. Please work with your co-chairs [2022_roster (TBD)](#) to update the document associated with your Organizing Committee position.  Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org) , or submit a pull request [on git hub](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
 
 
 Meetings
 --------
 
  * OC Calls and Meetings - **8am PT, 11am ET, 5pm CET**
- * Joining the Calls: Contact if you need the informations. 
- * Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0)
- * Meeting Minutes: [Google Drive](https://drive.google.com/drive/u/0/folders/11a7jbByTX7oacxB9eDH21GCBBakj4-G1)  
+ * Joining the Calls: Contact archive if you need the informations. 
+ * Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/13GBq9YaHaZVg2x5xm85HQPD_GiTPwQapIIStHTZnHc0/edit?usp=sharing)
+ * Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/1TozyqFvKNR1pKitzLLW87iM6bSzPrrQn?usp=sharing)  
 
 
 Attention: Please **add your agenda items** and comments in the Meeting Minutes documents before each call.
@@ -27,14 +27,14 @@ Online presence
 * Website live: [ieeevis.org](ieeevis.org)
 * Website preview: [staging.ieeevis.org](staging.ieeevis.org)
 * Website editing instruction:[http://ieeevis.org/instructions](http://ieeevis.org/instructions)
-* Slack channel : [vis2021workspace.slack.com](vis2021workspace.slack.com)
+* Slack channel : See invite -- please write archive ifyou didn't get one.
 * Twitter : [@ieeevis](https://twitter.com/ieeevis)
 
 
 Quick Contacts
 -----------------
 
-Roster: [here](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907)
+Roster: [tbd](#)
 
 All generic email addresses below end with @ieeevis.org !
 
@@ -58,6 +58,8 @@ All generic email addresses below end with @ieeevis.org !
   * [tutorials](mailto:tutorials@ieeevis.org) (all V-I-S)
   * [vis_shortpapers](mailto:vis_shortpapers@ieeevis.org)
   * [sc_liaisons](mailto:sc_liaisons@ieeevis.org) 
+  * [inclusivity](mailto:inclusivity@ieeevis.org) 
+  * [accessibility](mailto:accessibility@ieeevis.org) 
 
 
 * Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
@@ -101,10 +103,10 @@ All generic email addresses below end with @ieeevis.org !
 Documents 
 ----------------------
 
-* [Roster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907) 
-* [Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0)
-* [Important Dates Document](https://docs.google.com/spreadsheets/d/1mJvL8I0xOKsQkFrlcaUtEtI5XFPDlk9Zmepj4UEIDMc/edit#gid=0)
-* [Meeting minutes folder](https://drive.google.com/drive/u/0/folders/11a7jbByTX7oacxB9eDH21GCBBakj4-G1)  
+<!-- * [Roster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907) 
+* [Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0) -->
+ * Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/13GBq9YaHaZVg2x5xm85HQPD_GiTPwQapIIStHTZnHc0/edit?usp=sharing)
+ * Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/1TozyqFvKNR1pKitzLLW87iM6bSzPrrQn?usp=sharing)   
 * [Infodumps of 2020](https://drive.google.com/drive/u/0/folders/178IERHWBaE9vETwlt_IsfKaAOvl9ZMf2)
 * [Infodumps of 2019](https://drive.google.com/drive/u/0/folders/1P7YcmoY96kTkSbb0TUj-VWmsnd9uwmsP)
 
