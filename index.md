@@ -47,7 +47,7 @@ All generic email addresses below end with @ieeevis.org !
   * [vec_chair](mailto:vec_chair@ieeevis.org) 
 
 
-* Overall Paper Chairs  [opc](mailto:opc@ieeevis.org)
+* Overall Paper Chairs  [opc](mailto:opc@ieeevis.org) Anders Ynnerman, Bongshin Lee, Helwig Hauser
    
 * Overall Paper Chairs + Area Paper Chairs [pcc](mailto:pcc@ieeevis.org)
 
@@ -64,12 +64,12 @@ Helwig Hauser, T. J. Jankun-Kelly, Anastasia Bezerianos, Michael Gleicher, Tobia
 
 
 * Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
-  * Area 1: [Theoretical & Empirical](mailto:theory-empirical-apc@ieeevis.org)
-  * Area 2: [Applications](mailto:applications-apc@ieeevis.org) 
-  * Area 3: [Systems & Rendering](mailto:systems-rendering-apc@ieeevis.org)  
-  * Area 4: [Representations & Interaction](mailto:representations-interaction-apc@ieeevis.org)
+  * Area 1: [Theoretical & Empirical](mailto:theory-empirical-apc@ieeevis.org) Jian Chen, Christopher Collins
+  * Area 2: [Applications](mailto:applications-apc@ieeevis.org) Hamish A. Carr, Yingcai Wu
+  * Area 3: [Systems & Rendering](mailto:systems-rendering-apc@ieeevis.org)  Michael Gleicher, Tobias Isenberg
+  * Area 4: [Representations & Interaction](mailto:representations-interaction-apc@ieeevis.org) T. J. Jankun-Kelly, Anastasia Bezerianos
   * Area 5: [Data Transformations:](mailto:data-transformations-apc@ieeevis.org) Michael Sedlmair, M. Eduard Gröller
-  * Area 6: [Analytics & Decisions](mailto:analytics-decisions-apc@ieeevis.org)
+  * Area 6: [Analytics & Decisions](mailto:analytics-decisions-apc@ieeevis.org) Jinwook Seo, Alex Endert
 
 
 * Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
