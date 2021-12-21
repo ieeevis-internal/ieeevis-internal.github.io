@@ -27,7 +27,7 @@ Online presence
 * Website live: [ieeevis.org](ieeevis.org)
 * Website preview: [staging.ieeevis.org](staging.ieeevis.org)
 * Website editing instruction:[http://ieeevis.org/instructions](http://ieeevis.org/instructions)
-* Slack channel : See invite -- please write archive ifyou didn't get one.
+* Slack channel : See invite -- please write archive if you didn't get one.
 * Twitter : [@ieeevis](https://twitter.com/ieeevis)
 
 
@@ -57,7 +57,7 @@ All generic email addresses below end with @ieeevis.org !
   * [Panels:](mailto:panels@ieeevis.org) Michael Correll, Hsiang-Yun Wu, Yunhai Wang (all V-I-S)
   * [Tutorials:](mailto:tutorials@ieeevis.org) Mengchen Liu, Stefan bruckner, Christophe Hurter (all V-I-S)
   * [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Jonathan Roberts, Chaoli Wang, Michelle Borkin, Christoph Garth
-  * [SC_liaisons](mailto:sc_liaisons@ieeevis.org) 
+  * [SC liaisons](mailto:sc_liaisons@ieeevis.org) 
   * [Inclusivity:](mailto:inclusivity@ieeevis.org) Lace M. K. Padilla, Vetria Byrd
   * [Accessibility:](mailto:accessibility@ieeevis.org) Yea-Seul Kim, Dominik Moritz
 
