@@ -59,8 +59,8 @@ Helwig Hauser, T. J. Jankun-Kelly, Anastasia Bezerianos, Michael Gleicher, Tobia
   * [Tutorials:](mailto:tutorials@ieeevis.org) Mengchen Liu, Stefan bruckner, Christophe Hurter (all V-I-S)
   * [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Jonathan Roberts, Chaoli Wang, Michelle Borkin, Christoph Garth
   * [SC_liaisons](mailto:sc_liaisons@ieeevis.org) 
-  * [Inclusivity](mailto:inclusivity@ieeevis.org) 
-  * [Accessibility : Yea-Seul Kim, Dominik Moritz](mailto:accessibility@ieeevis.org) 
+  * [Inclusivity:](mailto:inclusivity@ieeevis.org) Lace M. K. Padilla, Vetria Byrd
+  * [Accessibility:](mailto:accessibility@ieeevis.org) Yea-Seul Kim, Dominik Moritz
 
 
 * Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
@@ -84,7 +84,7 @@ Helwig Hauser, T. J. Jankun-Kelly, Anastasia Bezerianos, Michael Gleicher, Tobia
 
 
 * Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
-  * [workshops:](mailto:workshops@ieeevis.org) Johanna Beyer, Filip Sadlo, Panpan Xu (all V-I-S)
+  * [Workshops:](mailto:workshops@ieeevis.org) Johanna Beyer, Filip Sadlo, Panpan Xu (all V-I-S)
   * [Doctoral_consortium:](mailto:doctoral_coll@ieeevis.org) Karen B. Schloss, Nan Cao, Maxime Cordeil (all V-I-S)
   * [Vast_challenge:](mailto:vast_challenge@ieeevis.org) Kristin Potter, R. Jordan Crouser
   * [SciVis_contest:](mailto:scivis_contest@ieeevis.org)  Alex Razoumov, Divya Banesh
