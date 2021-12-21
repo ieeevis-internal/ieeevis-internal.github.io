@@ -47,9 +47,9 @@ All generic email addresses below end with @ieeevis.org !
   * [vec_chair](mailto:vec_chair@ieeevis.org) 
 
 
-* [Overall Paper Chairs, opc](mailto:opc@ieeevis.org) Anders Ynnerman, Bongshin Lee, Helwig Hauser
+* [Overall Paper Chairs opc](mailto:opc@ieeevis.org) Anders Ynnerman, Bongshin Lee, Helwig Hauser
    
-* [Overall Paper Chairs + Area Paper Chairs, pcc](mailto:pcc@ieeevis.org)
+* [Overall Paper Chairs + Area Paper Chairs pcc](mailto:pcc@ieeevis.org)
 
 * Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
   * [Papers](mailto:papers@ieeevis.org)  Jinwook Seo, Alex Endert, Hamish A. Carr, Yingcai Wu, Michael Sedlmair, M. Eduard Gröller, Anders Ynnerman, Bongshin Lee
