@@ -39,11 +39,11 @@ Roster: [tbd](#)
 All generic email addresses below end with @ieeevis.org !
 
 * Core ([core_committee](mailto:core_committee@ieeevis.org)) 
-  * [General_Chair: David S. Ebert, Danielle Albers Szafir, Hendrik Strobelt](mailto:general_chair@ieeevis.org) 
-  * [Finance : Loretta Auvil, Maria C. Velez](mailto:finance@ieeevis.org) 
-  * [Program](mailto:program@ieeevis.org) 
-  * [Archive : Samuel Huron, Carolina Nobre, Kyle Wm. Hall](mailto:archive@ieeevis.org) 
-  * [General Chair Incoming : Tim Dwyer, Sarah Goodwin, Michael Wybrow, Paul Rosen, Kristin Potter, Remco Chang](mailto:incoming_chairs@ieeevis.org)
+  * [General_Chair:](mailto:general_chair@ieeevis.org) David S. Ebert, Danielle Albers Szafir, Hendrik Strobelt
+  * [Finance:](mailto:finance@ieeevis.org) Loretta Auvil, Maria C. Velez
+  * [Program:](mailto:program@ieeevis.org) Gautam Chaudhary, Joshua A. Levine
+  * [Archive:](mailto:archive@ieeevis.org) Samuel Huron, Carolina Nobre, Kyle Wm. Hall
+  * [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org)  Tim Dwyer, Sarah Goodwin, Michael Wybrow, Paul Rosen, Kristin Potter, Remco Chang
   * [vec_chair](mailto:vec_chair@ieeevis.org) 
 
 
@@ -52,11 +52,12 @@ All generic email addresses below end with @ieeevis.org !
 * Overall Paper Chairs + Area Paper Chairs [pcc](mailto:pcc@ieeevis.org)
 
 * Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
-  * [Papers](mailto:papers@ieeevis.org)  (all V-I-S)
-  * [Posters](mailto:posters@ieeevis.org) (all V-I-S) 
-  * [Panels : Michael Correll, Hsiang-Yun Wu, Yunhai Wang](mailto:panels@ieeevis.org) (all V-I-S)
-  * [Tutorials](mailto:tutorials@ieeevis.org) (all V-I-S)
-  * [Shortpapers](mailto:vis_shortpapers@ieeevis.org)
+  * [Papers](mailto:papers@ieeevis.org)  Jinwook Seo, Alex Endert, Hamish A. Carr, Yingcai Wu, Michael Sedlmair, M. Eduard Gröller, Anders Ynnerman, Bongshin Lee
+Helwig Hauser, T. J. Jankun-Kelly, Anastasia Bezerianos, Michael Gleicher, Tobias Isenberg, Jian Chen, Christopher Collins (all V-I-S)
+  * [Posters:](mailto:posters@ieeevis.org) Vijay Natarajan, Jessica Hullman, Adam Perer, Barbora Kozlíková (all V-I-S) 
+  * [Panels:](mailto:panels@ieeevis.org) Michael Correll, Hsiang-Yun Wu, Yunhai Wang (all V-I-S)
+  * [Tutorials:](mailto:tutorials@ieeevis.org) Mengchen Liu, Stefan bruckner, Christophe Hurter (all V-I-S)
+  * [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Jonathan Roberts, Chaoli Wang, Michelle Borkin, Christoph Garth
   * [SC_liaisons](mailto:sc_liaisons@ieeevis.org) 
   * [Inclusivity](mailto:inclusivity@ieeevis.org) 
   * [Accessibility : Yea-Seul Kim, Dominik Moritz](mailto:accessibility@ieeevis.org) 
@@ -67,38 +68,40 @@ All generic email addresses below end with @ieeevis.org !
   * Area 2: [Applications](mailto:applications-apc@ieeevis.org) 
   * Area 3: [Systems & Rendering](mailto:systems-rendering-apc@ieeevis.org)  
   * Area 4: [Representations & Interaction](mailto:representations-interaction-apc@ieeevis.org)
-  * Area 5: [Data Transformations : Michael Sedlmair, M. Eduard Gröller](mailto:data-transformations-apc@ieeevis.org) 
+  * Area 5: [Data Transformations:](mailto:data-transformations-apc@ieeevis.org) Michael Sedlmair, M. Eduard Gröller
   * Area 6: [Analytics & Decisions](mailto:analytics-decisions-apc@ieeevis.org)
 
 
 * Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
-  * [Student volunteers](mailto:sv@ieeevis.org) (Student volunteers)
-  * [Meetups](meetups@ieeevis.org) (all V-I-S)
-  * [Fast Forward: Arjun Srinivasan, Jun Tao ](mailto:ff@ieeevis.org) (Video and Fast forward all V-I-S)
-  * [Web](mailto:web@ieeevis.org) 
-  * [Open_Practices](mailto:open_practices@ieeevis.org)
-  * [Election : Bettina Speckmann, Emily Wall, Wesley Willett](TODO:election@ieeevis.org)
+  * TODO [Virtual Conference](mailto:virtualconf@ieeevis.org) Gautam Chaudhary, Amy Gooch, Paul Rosen, Daniel Baum, Harish Doraiswamy, Chris Weaver
+  * [Student volunteers:](mailto:sv@ieeevis.org) Beatrice Gobbo, Juan Trelles, Kung-tin Cheng, Keke Wu, Chenguang Xu (Shine)
+  * [Meetups:](meetups@ieeevis.org) Ayan Biswas, Evanthia Dimara, Yang Shi (all V-I-S)
+  * [Fast Forward:](mailto:ff@ieeevis.org) Arjun Srinivasan, Jun Tao (all V-I-S)
+  * TODO [Technology:](mailto:tec@ieeevis.org) Alexander Bock, John Wenskovitch, John Thompson, Johannes Knittel
+  * [Web](mailto:web@ieeevis.org)  Dylan Cashman, Steve Petruzza, Janos Zimmermann, Rebecca Kehlbeck
+  * [Open_Practices:](mailto:open_practices@ieeevis.org) Lonni Besançon, Carlos Scheidegger, Cody Dunne
+  * TODO [Election:](mailto:election@ieeevis.org) Bettina Speckmann, Emily Wall, Wesley Willett
 
 
 * Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
-  * [workshops](mailto:workshops@ieeevis.org)  (all V-I-S)
-  * [doctoral_consortium: Karen B. Schloss, Nan Cao, Maxime Cordeil](mailto:doctoral_coll@ieeevis.org)  (all V-I-S)
-  * [vast_challenge ](mailto:vast_challenge@ieeevis.org) 
-  * [scivis_contest : Alex Razoumov, Divya Banesh](mailto:scivis_contest@ieeevis.org) 
-  * [Art Program: Charles Perin, Uta Hinrichs](mailto:art@ieeevis.org) 
-  * [vds ](mailto:vds@ieeevis.org) 
-  * [ldav ](mailto:ldav@ieeevis.org) 
-  * [vizsec ](mailto:vizsec@ieeevis.org) 
+  * [workshops:](mailto:workshops@ieeevis.org) Johanna Beyer, Filip Sadlo, Panpan Xu (all V-I-S)
+  * [Doctoral_consortium:](mailto:doctoral_coll@ieeevis.org) Karen B. Schloss, Nan Cao, Maxime Cordeil (all V-I-S)
+  * [Vast_challenge:](mailto:vast_challenge@ieeevis.org) Kristin Potter, R. Jordan Crouser
+  * [SciVis_contest:](mailto:scivis_contest@ieeevis.org)  Alex Razoumov, Divya Banesh
+  * [Art Program:](mailto:art@ieeevis.org) Charles Perin, Uta Hinrichs
+  * [Vds](mailto:vds@ieeevis.org) 
+  * [Ldav ](mailto:ldav@ieeevis.org) 
+  * [Vizsec ](mailto:vizsec@ieeevis.org) 
   * [Beliv](mailto:beliv@ieeevis.org) 
   * [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) 
-  * [Application_spotlights: Soumya Dutta, Noeska N. Smit, Michael Krone](mailto:application_spotlights@ieeevis.org) 
-  * [Vip](mailto:vip@ieeevis.org) 
+  * [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Soumya Dutta, Noeska N. Smit, Michael Krone
+  * [Vis in practice:](mailto:vip@ieeevis.org) Zhicheng Liu, Sudhanshu Kumar Semwal,Anamaria Crisan
 
 
 * Outreach ([outreach](mailto:outreach@ieeevis.org))
-  * [Supporters](mailto:supporters@ieeevis.org) (all V-I-S)
-  * [Community : Lane Harrison, Qing Chen, Alfie Abdul-Rahman](mailto:community@ieeevis.org) (all V-I-S)
-  * [Publicity](mailto:publicity@ieeevis.org)  (all V-I-S)
+  * [Supporters](mailto:supporters@ieeevis.org) Eli T. Brown, Benjamin Bach, Jürgen Bernhard (all V-I-S)
+  * [Community:](mailto:community@ieeevis.org) Lane Harrison, Qing Chen, Alfie Abdul-Rahman (all V-I-S)
+  * [Publicity](mailto:publicity@ieeevis.org) Mennatallah El-Assady, John Alexis Guerra Gómez, Alvitta Ottley (all V-I-S)
 
 
 Documents 
