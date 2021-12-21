@@ -44,7 +44,7 @@ All generic email addresses below end with @ieeevis.org !
   * [Program:](mailto:program@ieeevis.org) Gautam Chaudhary, Joshua A. Levine
   * [Archive:](mailto:archive@ieeevis.org) Samuel Huron, Carolina Nobre, Kyle Wm. Hall
   * [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org)  Tim Dwyer, Sarah Goodwin, Michael Wybrow, Paul Rosen, Kristin Potter, Remco Chang
-  * [vec_chair](mailto:vec_chair@ieeevis.org) 
+  * [Vec_chair](mailto:vec_chair@ieeevis.org) 
 
 
 * [Overall Paper Chairs opc](mailto:opc@ieeevis.org) Anders Ynnerman, Bongshin Lee, Helwig Hauser
@@ -52,8 +52,7 @@ All generic email addresses below end with @ieeevis.org !
 * [Overall Paper Chairs + Area Paper Chairs pcc](mailto:pcc@ieeevis.org)
 
 * Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
-  * [Papers](mailto:papers@ieeevis.org)  Jinwook Seo, Alex Endert, Hamish A. Carr, Yingcai Wu, Michael Sedlmair, M. Eduard Gröller, Anders Ynnerman, Bongshin Lee
-Helwig Hauser, T. J. Jankun-Kelly, Anastasia Bezerianos, Michael Gleicher, Tobias Isenberg, Jian Chen, Christopher Collins (all V-I-S)
+  * [Papers](mailto:papers@ieeevis.org)  Jinwook Seo, Alex Endert, Hamish A. Carr, Yingcai Wu, Michael Sedlmair, M. Eduard Gröller, Anders Ynnerman, Bongshin Lee, Helwig Hauser, T. J. Jankun-Kelly, Anastasia Bezerianos, Michael Gleicher, Tobias Isenberg, Jian Chen, Christopher Collins (all V-I-S)
   * [Posters:](mailto:posters@ieeevis.org) Vijay Natarajan, Jessica Hullman, Adam Perer, Barbora Kozlíková (all V-I-S) 
   * [Panels:](mailto:panels@ieeevis.org) Michael Correll, Hsiang-Yun Wu, Yunhai Wang (all V-I-S)
   * [Tutorials:](mailto:tutorials@ieeevis.org) Mengchen Liu, Stefan bruckner, Christophe Hurter (all V-I-S)
