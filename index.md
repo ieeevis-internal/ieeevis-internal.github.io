@@ -44,7 +44,7 @@ All generic email addresses below end with @ieeevis.org !
   * [Program:](mailto:program@ieeevis.org) Gautam Chaudhary, Joshua A. Levine
   * [Archive:](mailto:archive@ieeevis.org) Samuel Huron, Carolina Nobre, Kyle Wm. Hall
   * [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org)  Tim Dwyer, Sarah Goodwin, Michael Wybrow, Paul Rosen, Kristin Potter, Remco Chang
-  * [Vec_chair](mailto:vec_chair@ieeevis.org) 
+  * [Vec_chair](mailto:vec_chair@ieeevis.org) Holger Theisel, Ross Maciejewski
 
 
 * [Overall Paper Chairs opc](mailto:opc@ieeevis.org) Anders Ynnerman, Bongshin Lee, Helwig Hauser
@@ -57,7 +57,7 @@ All generic email addresses below end with @ieeevis.org !
   * [Panels:](mailto:panels@ieeevis.org) Michael Correll, Hsiang-Yun Wu, Yunhai Wang (all V-I-S)
   * [Tutorials:](mailto:tutorials@ieeevis.org) Mengchen Liu, Stefan bruckner, Christophe Hurter (all V-I-S)
   * [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Jonathan Roberts, Chaoli Wang, Michelle Borkin, Christoph Garth
-  * [SC liaisons](mailto:sc_liaisons@ieeevis.org) 
+  * [SC liaisons](mailto:sc_liaisons@ieeevis.org)  Petra Isenberg, Stephen North
   * [Inclusivity:](mailto:inclusivity@ieeevis.org) Lace M. K. Padilla, Vetria Byrd
   * [Accessibility:](mailto:accessibility@ieeevis.org) Yea-Seul Kim, Dominik Moritz
 
@@ -72,11 +72,11 @@ All generic email addresses below end with @ieeevis.org !
 
 
 * Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
-  * TODO [Virtual Conference](mailto:virtualconf@ieeevis.org) Gautam Chaudhary, Amy Gooch, Paul Rosen, Daniel Baum, Harish Doraiswamy, Chris Weaver
+  * [Virtual Conference](mailto:viv@ieeevis.org) Gautam Chaudhary, Amy Gooch, Paul Rosen, Daniel Baum, Harish Doraiswamy, Chris Weaver
   * [Student volunteers:](mailto:sv@ieeevis.org) Beatrice Gobbo, Juan Trelles, Kung-tin Cheng, Keke Wu, Chenguang Xu (Shine)
   * [Meetups:](meetups@ieeevis.org) Ayan Biswas, Evanthia Dimara, Yang Shi (all V-I-S)
   * [Fast Forward:](mailto:ff@ieeevis.org) Arjun Srinivasan, Jun Tao (all V-I-S)
-  * TODO [Technology:](mailto:tec@ieeevis.org) Alexander Bock, John Wenskovitch, John Thompson, Johannes Knittel
+  * [Technology:](mailto:tech@ieeevis.org) Alexander Bock, John Wenskovitch, John Thompson, Johannes Knittel
   * [Web](mailto:web@ieeevis.org)  Dylan Cashman, Steve Petruzza, Janos Zimmermann, Rebecca Kehlbeck
   * [Open_Practices:](mailto:open_practices@ieeevis.org) Lonni Besançon, Carlos Scheidegger, Cody Dunne
   * TODO [Election:](mailto:election@ieeevis.org) Bettina Speckmann, Emily Wall, Wesley Willett
@@ -88,10 +88,10 @@ All generic email addresses below end with @ieeevis.org !
   * [Vast_challenge:](mailto:vast_challenge@ieeevis.org) Kristin Potter, R. Jordan Crouser
   * [SciVis_contest:](mailto:scivis_contest@ieeevis.org)  Alex Razoumov, Divya Banesh
   * [Art Program:](mailto:art@ieeevis.org) Charles Perin, Uta Hinrichs
-  * [Vds](mailto:vds@ieeevis.org) 
-  * [Ldav ](mailto:ldav@ieeevis.org) 
-  * [Vizsec ](mailto:vizsec@ieeevis.org) 
-  * [Beliv](mailto:beliv@ieeevis.org) 
+  * [Vds](mailto:vds@ieeevis.org) TBD
+  * [Ldav ](mailto:ldav@ieeevis.org) TBD
+  * [Vizsec ](mailto:vizsec@ieeevis.org) TBD
+  * [Beliv](mailto:beliv@ieeevis.org) TBD
   * [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) 
   * [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Soumya Dutta, Noeska N. Smit, Michael Krone
   * [Vis in practice:](mailto:vip@ieeevis.org) Zhicheng Liu, Sudhanshu Kumar Semwal,Anamaria Crisan
