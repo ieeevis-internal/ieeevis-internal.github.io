@@ -82,6 +82,7 @@ All generic email addresses below end with @ieeevis.org !
   * [Technology:](mailto:tech@ieeevis.org) Alexander Bock, John Wenskovitch, John Thompson, Johannes Knittel
   * [Web](mailto:web@ieeevis.org)  Dylan Cashman, Steve Petruzza, Janos Zimmermann, Rebecca Kehlbeck
   * [Open_Practices:](mailto:open_practices@ieeevis.org) Lonni Besançon, Carlos Scheidegger, Cody Dunne
+  * [Tech]
   * TODO [Election:](mailto:election@ieeevis.org) Bettina Speckmann, Emily Wall, Wesley Willett
 
 
