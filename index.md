@@ -60,6 +60,9 @@ All generic email addresses below end with @ieeevis.org !
   * [SC liaisons](mailto:sc_liaisons@ieeevis.org)  Petra Isenberg, Stephen North
   * [Inclusivity:](mailto:inclusivity@ieeevis.org) Lace M. K. Padilla, Vetria Byrd
   * [Accessibility:](mailto:accessibility@ieeevis.org) Yea-Seul Kim, Dominik Moritz
+  * [Publications]
+  * [Virtual Vis]
+  * [Shortpapers]
 
 
 * Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
