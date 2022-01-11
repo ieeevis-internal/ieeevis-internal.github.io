@@ -60,9 +60,9 @@ All generic email addresses below end with @ieeevis.org !
   * [SC liaisons](mailto:sc_liaisons@ieeevis.org)  Petra Isenberg, Stephen North
   * [Inclusivity:](mailto:inclusivity@ieeevis.org) Lace M. K. Padilla, Vetria Byrd
   * [Accessibility:](mailto:accessibility@ieeevis.org) Yea-Seul Kim, Dominik Moritz
-  * [Publications]
-  * [Virtual Vis]
-  * [Shortpapers]
+  * [Publications:](mailto:) Arvind Satyanarayan, Jian Zhao, Katerina Vrotsou
+  * [Virtual Vis:](mailto:viv@ieeevis.org) Gautam Chaudhary, Amy Gooch, Paul Rosen, Daniel Baum, Harish Doraiswamy, Chris Weaver
+  * [Shortpapers:](mailto:shortpapers@ieeevis.org) Jonathan Roberts, Chaoli Wang, Michelle Borkin, Christoph Garth
 
 
 * Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
@@ -82,8 +82,8 @@ All generic email addresses below end with @ieeevis.org !
   * [Technology:](mailto:tech@ieeevis.org) Alexander Bock, John Wenskovitch, John Thompson, Johannes Knittel
   * [Web](mailto:web@ieeevis.org)  Dylan Cashman, Steve Petruzza, Janos Zimmermann, Rebecca Kehlbeck
   * [Open_Practices:](mailto:open_practices@ieeevis.org) Lonni Besançon, Carlos Scheidegger, Cody Dunne
-  * [Tech]
-  * TODO [Election:](mailto:election@ieeevis.org) Bettina Speckmann, Emily Wall, Wesley Willett
+  * [Technology:](mailto:tech@ieeevis.org) Alexander Bock, John Wenskovitch, John Thompson, Johannes Knittel
+  * [Election:](mailto:election@ieeevis.org) Bettina Speckmann, Emily Wall, Wesley Willett
 
 
 * Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
