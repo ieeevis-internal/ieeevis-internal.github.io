@@ -1,7 +1,8 @@
 VIS 2022 Knowledge Base
 =====
 
-Information from last year's conference organization can be found at the [2022 Knowledge Base](https://drive.google.com/drive/u/0/folders/1gIjEhsUYlK2FMN8tCDOkBDr99OU4kWNj) and should be used to complete the chair reports. Please work with your co-chairs [2022_roster (TBD)](#) to update the document associated with your Organizing Committee position.  Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org) , or submit a pull request [on git hub](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
+Information from last year's conference organization can be found at the [2022 Knowledge Base](https://drive.google.com/drive/u/0/folders/1gIjEhsUYlK2FMN8tCDOkBDr99OU4kWNj) and should be used to complete the chair reports. Please work with your co-chairs [2022_roster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907)
+ to update the document associated with your Organizing Committee position.  Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org) , or submit a pull request [on git hub](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
 
 
 Meetings
