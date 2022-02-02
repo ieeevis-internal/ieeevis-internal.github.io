@@ -1,7 +1,7 @@
 VIS 2022 Knowledge Base
 =====
 
-Information from last year's conference organization can be found at the [2022 Knowledge Base (TBD)](#) and should be used to complete the chair reports. Please work with your co-chairs [2022_roster (TBD)](#) to update the document associated with your Organizing Committee position.  Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org) , or submit a pull request [on git hub](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
+Information from last year's conference organization can be found at the [2022 Knowledge Base (TBD)](https://drive.google.com/drive/u/0/folders/1gIjEhsUYlK2FMN8tCDOkBDr99OU4kWNj) and should be used to complete the chair reports. Please work with your co-chairs [2022_roster (TBD)](#) to update the document associated with your Organizing Committee position.  Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org) , or submit a pull request [on git hub](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
 
 
 Meetings
@@ -34,7 +34,7 @@ Online presence
 Quick Contacts
 -----------------
 
-Roster: [tbd](#)
+[Rooster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907)
 
 All generic email addresses below end with @ieeevis.org !
 
@@ -92,10 +92,10 @@ All generic email addresses below end with @ieeevis.org !
   * [Vast_challenge:](mailto:vast_challenge@ieeevis.org) Kristin Potter, R. Jordan Crouser
   * [SciVis_contest:](mailto:scivis_contest@ieeevis.org)  Alex Razoumov, Divya Banesh
   * [Art Program:](mailto:art@ieeevis.org) Charles Perin, Uta Hinrichs
-  * [Vds](mailto:vds@ieeevis.org) TBD
-  * [Ldav ](mailto:ldav@ieeevis.org) TBD
-  * [Vizsec ](mailto:vizsec@ieeevis.org) TBD
-  * [Beliv](mailto:beliv@ieeevis.org) TBD
+  * [Vds](mailto:vds@ieeevis.org) Liang Gou
+  * [Ldav ](mailto:ldav@ieeevis.org) Kristi Potter, Julien Tierny, Chaoli Wang
+  * [Vizsec ](mailto:vizsec@ieeevis.org) Marco Angelini
+  * [Beliv](mailto:beliv@ieeevis.org) Kyle Hall, Anastasia Bezerianos, Miriah Meyer, Matthew Kay, Samuel Huron 
   * [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) 
   * [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Soumya Dutta, Noeska N. Smit, Michael Krone
   * [Vis in practice:](mailto:vip@ieeevis.org) Zhicheng Liu, Sudhanshu Kumar Semwal,Anamaria Crisan
