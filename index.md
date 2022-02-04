@@ -88,18 +88,20 @@ All generic email addresses below end with @ieeevis.org !
 
 
 * Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
-  * [Workshops:](mailto:workshops@ieeevis.org) Johanna Beyer, Filip Sadlo, Panpan Xu (all V-I-S)
-  * [Doctoral_consortium:](mailto:doctoral_coll@ieeevis.org) Karen B. Schloss, Nan Cao, Maxime Cordeil (all V-I-S)
-  * [Vast_challenge:](mailto:vast_challenge@ieeevis.org) Kristin Potter, R. Jordan Crouser
-  * [SciVis_contest:](mailto:scivis_contest@ieeevis.org)  Alex Razoumov, Divya Banesh
-  * [Art Program:](mailto:art@ieeevis.org) Charles Perin, Uta Hinrichs
-  * [Vds](mailto:vds@ieeevis.org) Liang Gou
-  * [Ldav ](mailto:ldav@ieeevis.org) Kristi Potter, Julien Tierny, Chaoli Wang
-  * [Vizsec ](mailto:vizsec@ieeevis.org) Marco Angelini
-  * [Beliv](mailto:beliv@ieeevis.org) Kyle Hall, Anastasia Bezerianos, Miriah Meyer, Matthew Kay, Samuel Huron 
-  * [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) 
   * [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Soumya Dutta, Noeska N. Smit, Michael Krone
+  * [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Charles Perin, Uta Hinrichs
+  * [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Kyle Hall, Anastasia Bezerianos, Miriah Meyer, Matthew Kay, Samuel Huron 
+  * [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2022/ieeevis/)  Zeynep H Gumus, Thomas Höllt, Daniel Jönsson, Renata Raidou
+  * [Doctoral_consortium:](mailto:doctoral_coll@ieeevis.org) Karen B. Schloss, Nan Cao, Maxime Cordeil (all V-I-S)
+  * [Ldav ](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Peer-Timo Bremer, Kristi Potter, and Chaoli Wang
+  * [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web](https://www.lanl.gov/projects/sciviscontest2022/)  Alex Razoumov, Divya Banesh
+  * [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web](https://vast-challenge.github.io/2022) Kristin Potter, R. Jordan Crouser
+  * [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/2022) Alvitta Ottley, Anamaria Crisan
+  * [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) Liang Gou, Claudia Plant
   * [Vis in practice:](mailto:vip@ieeevis.org) Zhicheng Liu, Sudhanshu Kumar Semwal,Anamaria Crisan
+  * [Vizsec ](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan
+  * [VISxAI ](mailto:orga@visxai.io) - [web](http://visxai.io/) Adam Perer, Angie Boggust, Fred Hohman, Hendrik Strobelt, Mennatallah El-Assady, Zijie Jay Wang
+  * [Workshops:](mailto:workshops@ieeevis.org) Johanna Beyer, Filip Sadlo, Panpan Xu (all V-I-S)
 
 
 * Outreach ([outreach](mailto:outreach@ieeevis.org))
