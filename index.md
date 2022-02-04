@@ -35,7 +35,7 @@ Online presence
 Quick Contacts
 -----------------
 
-[Rooster](https://docs.google.com/spreadsheets/d/1GXCZUTVAxk0J7dU0wn-JWZ7EU0jQnixly5dCM4Vdc2E/edit#gid=0)
+[Roster](https://docs.google.com/spreadsheets/d/1GXCZUTVAxk0J7dU0wn-JWZ7EU0jQnixly5dCM4Vdc2E/edit#gid=0)
 
 All generic email addresses below end with @ieeevis.org !
 
