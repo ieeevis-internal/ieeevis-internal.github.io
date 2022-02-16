@@ -77,7 +77,7 @@ All generic email addresses below end with @ieeevis.org !
 
 * Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
   * [Virtual Conference](mailto:viv@ieeevis.org) Gautam Chaudhary, Amy Gooch, Paul Rosen, Daniel Baum, Harish Doraiswamy, Chris Weaver
-  * [Student volunteers:](mailto:sv@ieeevis.org) Beatrice Gobbo, Juan Trelles, Kung-tin Cheng, Keke Wu, Chenguang Xu (Shine)
+  * [Student volunteers:](mailto:sv@ieeevis.org) Beatrice Gobbo, Juan Trelles, Kun-Ting Chen, Keke Wu, Chenguang Xu (Shine)
   * [Meetups:](mailto:meetups@ieeevis.org) Ayan Biswas, Evanthia Dimara, Yang Shi (all V-I-S)
   * [Fast Forward:](mailto:ff@ieeevis.org) Arjun Srinivasan, Jun Tao (all V-I-S)
   * [Technology:](mailto:tech@ieeevis.org) Alexander Bock, John Wenskovitch, John Thompson, Johannes Knittel
