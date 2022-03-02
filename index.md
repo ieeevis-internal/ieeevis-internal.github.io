@@ -84,7 +84,6 @@ All generic email addresses below end with @ieeevis.org !
   * [Web](mailto:web@ieeevis.org)  Dylan Cashman, Steve Petruzza, Janos Zimmermann, Rebecca Kehlbeck
   * [Open_Practices:](mailto:open_practices@ieeevis.org) Lonni Besançon, Carlos Scheidegger, Cody Dunne
   * [Technology:](mailto:tech@ieeevis.org) Alexander Bock, John Wenskovitch, John Thompson, Johannes Knittel
-  * [Election:](mailto:election@ieeevis.org) Bettina Speckmann, Emily Wall, Wesley Willett
 
 
 * Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
@@ -108,6 +107,8 @@ All generic email addresses below end with @ieeevis.org !
   * [Supporters](mailto:supporters@ieeevis.org) Eli T. Brown, Benjamin Bach, Jürgen Bernhard (all V-I-S)
   * [Community:](mailto:community@ieeevis.org) Lane Harrison, Qing Chen, Alfie Abdul-Rahman (all V-I-S)
   * [Publicity](mailto:publicity@ieeevis.org) Mennatallah El-Assady, John Alexis Guerra Gómez, Alvitta Ottley (all V-I-S)
+  * [Election:](mailto:election@ieeevis.org) Bettina Speckmann, Emily Wall, Wesley Willett
+
 
 
 Documents 
