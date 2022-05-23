@@ -91,7 +91,7 @@ All generic email addresses below end with @ieeevis.org !
   * [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Charles Perin, Uta Hinrichs
   * [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Kyle Hall, Anastasia Bezerianos, Miriah Meyer, Matthew Kay, Samuel Huron 
   * [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2022/ieeevis/)  Zeynep H Gumus, Thomas Höllt, Daniel Jönsson, Renata Raidou
-  * [Doctoral_consortium:](mailto:doctoral_coll@ieeevis.org) Karen B. Schloss, Nan Cao, Maxime Cordeil (all V-I-S)
+  * [Doctoral_consortium:](mailto:doctoral_coll@ieeevis.org) Kate Isaacs, Karen B. Schloss, Nan Cao, Maxime Cordeil (all V-I-S)
   * [Ldav ](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Peer-Timo Bremer, Kristi Potter, and Chaoli Wang
   * [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web](https://www.lanl.gov/projects/sciviscontest2022/)  Alex Razoumov, Divya Banesh
   * [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web](https://vast-challenge.github.io/2022) Kristin Potter, R. Jordan Crouser
