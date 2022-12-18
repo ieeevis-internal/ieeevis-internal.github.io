@@ -10,7 +10,8 @@ Meetings
  * OC Calls and Meetings - **Wednesday 7:00 AEST, Tuesday 21:00 CEST/15:00 EST/12:00 PST**
  * Joining the Calls: Contact archive if you need the informations. 
  * Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1dyRkCOFPRhylbTE4H50jvNfHuhm0iMS_/edit)
- * Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/1c4jA2-yeTEziCt7JJbrJspYNX-0Zj_W0?usp=share_link)  
+ * Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/1c4jA2-yeTEziCt7JJbrJspYNX-0Zj_W0?usp=share_link) 
+ * VIS 23 Calendar: [Important Dates Document](https://docs.google.com/spreadsheets/d/1th7ZlxcmnEEJ64z5pbdbMidXRsdkX9EplkqJapJ342o/edit?usp=sharing) 
 
 
 Attention: Please **add your agenda items** and comments in the Meeting Minutes documents before each call.
