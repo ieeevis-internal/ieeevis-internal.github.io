@@ -73,7 +73,7 @@ All generic email addresses below end with @ieeevis.org !
 
 
 * Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
-  * [Student volunteers:](mailto:sv@ieeevis.org) Kung-tin Cheng, Chenguang Xu (Shine), Keke Wu
+  * [Student volunteers:](mailto:sv@ieeevis.org) Kung-tin Cheng, Keke Wu, Katy Williams, Vahid Pooryousef, Noëlle Rakotondravony
   * [Meetups:](mailto:meetups@ieeevis.org) Carmen Hull, Cindy Xiong, Yang Shi
   * [Fast Forward:](mailto:ff@ieeevis.org) Soumya Dutta, Arjun Srinivasan, Siming Chen, Jun Tao
   * [Technology:](mailto:tech@ieeevis.org) Kadek Satriadi, John Wenskovitch, John Thompson, Johannes Knittel
