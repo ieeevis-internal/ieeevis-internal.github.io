@@ -56,7 +56,7 @@ All generic email addresses below end with @ieeevis.org !
   * [Posters:](mailto:posters@ieeevis.org) Nan Cao, Barbora Kozlíková, Jiazhi Xia, Wesley Willett
   * [Panels:](mailto:panels@ieeevis.org) Cagatay Turkay, Hsiang-Yun Wu, Yunhai Wang
   * [Tutorials:](mailto:tutorials@ieeevis.org) Mengchen Liu, Charles Perin, Kai Lawonn
-  * [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Jonathan Roberts, Christoph Garth, Takayuki Itoh, Johanna Beyer
+  * [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Jonathan Roberts, Christoph Garth, Takayuki Itoh, Johanna Beyer, Hongfeng Yu
   * [SC liaisons:](mailto:sc_liaisons@ieeevis.org)  Petra Isenberg, Stephen North
   * [Inclusivity:](mailto:inclusivity@ieeevis.org) John Alexis Guerra Gómez, Vetria Byrd
   * [Accessibility:](mailto:accessibility@ieeevis.org) Kim Marriott, Dominik Moritz
