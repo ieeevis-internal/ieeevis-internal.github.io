@@ -44,7 +44,7 @@ All generic email addresses below end with @ieeevis.org !
   * [Program:](mailto:program@ieeevis.org) Gautam Chaudhary, Joshua A. Levine, Lane Harrison
   * [Archive:](mailto:archive@ieeevis.org) Carolina Nobre, Kyle Wm. Hall, Xiting Wang
   * [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org)  Paul Rosen, Kristin Potter, Remco Chang
-  * [Vec_chair](mailto:vec_chair@ieeevis.org) Holger Theisel, Ross Maciejewski
+  * [Vec_chair](mailto:vec_chair@ieeevis.org) Anastasia Bezerianos, Rita Borgo, Matthew Brehmer, Gautam Chaudhary, Min Chen, Chris Collins, Ross Maciejewski, Narges Mahyar, Elisabeta Marai, Brian Summa, Holger Theisel
 
 
 * [Overall Paper Chairs opc](mailto:opc@ieeevis.org) Tamara Munzner, Jarke van Wijk, John Stasko
