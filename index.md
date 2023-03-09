@@ -9,7 +9,7 @@ Meetings
 
  * OC Calls and Meetings - **Wednesday 7:00 AEST, Tuesday 21:00 CEST/15:00 EST/12:00 PST**
  * Joining the Calls: Contact archive if you need the informations. 
- * Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1dyRkCOFPRhylbTE4H50jvNfHuhm0iMS_/edit)
+ * Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1aMUANob9S5pykpXhxVs7MnZMTdlT-ZxbBaGby0h9Kwc/edit#gid=0)
  * Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/1c4jA2-yeTEziCt7JJbrJspYNX-0Zj_W0?usp=share_link)  
 
 
