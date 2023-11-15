@@ -32,12 +32,12 @@ All generic email addresses below end with @ieeevis.org !
 
 - Core ([core_committee](mailto:core_committee@ieeevis.org))
 
-  - [General_Chair:](mailto:general_chair@ieeevis.org) Tim Dwyer, Sarah Goodwin, Michael Wybrow
-  - [Finance:](mailto:finance@ieeevis.org) Loretta Auvil, Maria C. Velez
-  - [Program:](mailto:program@ieeevis.org) Gautam Chaudhary, Joshua A. Levine, Lane Harrison
-  - [Archive:](mailto:archive@ieeevis.org) Carolina Nobre, Kyle Wm. Hall, Xiting Wang
-  - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Paul Rosen, Kristin Potter, Remco Chang
-  - [Vec_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Holger Theisel, Gautam Chaudhary
+  - [General_Chair:](mailto:general_chair@ieeevis.org) Paul Rosen, Kristin Potter, Remco Chang
+  - [Finance:](mailto:finance@ieeevis.org) Loretta Auvil, Maria C. Velez, Bhavana Doppalapudi
+  - [Program:](mailto:program@ieeevis.org) Joshua A. Levine, Lane Harrison, Kate Issacs
+  - [Archive:](mailto:archive@ieeevis.org) Mukund Raj, Ashley Suh, Kyle Wm. Hall
+  - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Johanna Schmidt, Kresimir Matković, Barbora Kozlíková, Eduard Gröller
+  - [Vec_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Gautam Chaudhary
 
 - [Overall Paper Chairs opc](mailto:opc@ieeevis.org) Tamara Munzner, Jarke van Wijk, John Stasko
 - [Overall Paper Chairs + Area Paper Chairs pcc](mailto:pcc@ieeevis.org)
