@@ -44,11 +44,11 @@ All generic email addresses below end with @ieeevis.org !
 
 - Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
 
-  - [Papers](mailto:papers@ieeevis.org) Michael Sedlmair, Ivan Viola, Wenwen Dou, Alex Endert, Tatiana Von Landesberger, Yingcai Wu, Adam Perer, Alex Lex, T. J. Jankun-kelly, Pierre Dragicevic, Chaoli Wang, Tobias Isenberg, Tamara Munzner, Jarke van Wijk, John Stasko
-  - [Posters:](mailto:posters@ieeevis.org) Nan Cao, Barbora Kozlíková, Jiazhi Xia, Wesley Willett
-  - [Panels:](mailto:panels@ieeevis.org) Cagatay Turkay, Hsiang-Yun Wu, Yunhai Wang
-  - [Tutorials:](mailto:tutorials@ieeevis.org) Mengchen Liu, Charles Perin, Kai Lawonn
-  - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Jonathan Roberts, Christoph Garth, Takayuki Itoh, Johanna Beyer, Hongfeng Yu
+  - [Papers](mailto:papers@ieeevis.org) Filip Sadlo, Ivan Viola, Wenwen Dou, Steffen Koch, Tatiana von Landesberger, Jiawan Zhang, Adam Perer, Matthew Kay, Daniel Keefe, Pierre Dragicevic, Chaoli Wang, Christoph Garth, Tamara Munzner, Niklas Elmqvist, Holger Theisel
+  - [Posters:](mailto:posters@ieeevis.org) Nan Cao, Renata Raidou, Jiazhi Xia, Wesley Willett
+  - [Panels:](mailto:panels@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
+  - [Tutorials:](mailto:tutorials@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
+  - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin Johanna Beyer, Takayuki Itoh, Hongfeng Yu
   - [SC liaisons:](mailto:sc_liaisons@ieeevis.org) Petra Isenberg, Stephen North
   - [Inclusivity:](mailto:inclusivity@ieeevis.org) John Alexis Guerra Gómez, Michelle Borkin, Benjamin Tag
   - [Accessibility:](mailto:accessibility@ieeevis.org) Kim Marriott, Dominik Moritz
