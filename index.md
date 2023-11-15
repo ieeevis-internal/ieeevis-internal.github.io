@@ -6,7 +6,7 @@ Information from last year's conference organization can be found at the [2023 K
 
 - OC Calls and Meetings - **Wednesday 18:00 CEST/11:00 EST/08:00 PST, Thursday 03:00 AEST**
 - Joining the Calls: Contact archive if you need the informations.
-- Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1aMUANob9S5pykpXhxVs7MnZMTdlT-ZxbBaGby0h9Kwc/edit#gid=0)
+- Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1eeFMKXQee-Pjc-UYjZOeksbnyF50mUpaYzLimACiaw4/edit?usp=sharing )
 - Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/1c4jA2-yeTEziCt7JJbrJspYNX-0Zj_W0?usp=share_link)
 
 Attention: Please **add your agenda items** and comments in the Meeting Minutes documents before each call.
