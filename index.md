@@ -14,7 +14,7 @@ Attention: Please **add your agenda items** and comments in the Meeting Minutes 
 ## Online presence
 
 <!--
-* Kickoff slides: here
+* Kickoff slides: [here](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit)
 *
 -->
 
@@ -32,12 +32,12 @@ All generic email addresses below end with @ieeevis.org !
 
 - Core ([core_committee](mailto:core_committee@ieeevis.org))
 
-  - [General_Chair:](mailto:general_chair@ieeevis.org) Paul Rosen, Kristin Potter, Remco Chang
+  - [General_Chair:](mailto:general_chair@ieeevis.org) Paul Rosen, Kristi Potter, Remco Chang
   - [Finance:](mailto:finance@ieeevis.org) Loretta Auvil, Maria C. Velez, Bhavana Doppalapudi
   - [Program:](mailto:program@ieeevis.org) Joshua A. Levine, Lane Harrison, Kate Issacs
-  - [Archive:](mailto:archive@ieeevis.org) Mukund Raj, Ashley Suh, Kyle Wm. Hall
+  - [Archive:](mailto:archive@ieeevis.org) Mukund Raj, Ashley Suh, Kyle Hall
   - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Johanna Schmidt, Kresimir Matković, Barbora Kozlíková, Eduard Gröller
-  - [Vec_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Gautam Chaudhary
+  - [VEC_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Gautam Chaudhary
 
 - [Overall Paper Chairs opc](mailto:opc@ieeevis.org) Tamara Munzner, Jarke van Wijk, John Stasko
 - [Overall Paper Chairs + Area Paper Chairs pcc](mailto:pcc@ieeevis.org)
@@ -48,11 +48,11 @@ All generic email addresses below end with @ieeevis.org !
   - [Posters:](mailto:posters@ieeevis.org) Nan Cao, Renata Raidou, Jiazhi Xia, Wesley Willett
   - [Panels:](mailto:panels@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
   - [Tutorials:](mailto:tutorials@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
-  - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin Johanna Beyer, Takayuki Itoh, Hongfeng Yu
+  - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin, Johanna Beyer, Takayuki Itoh, Hongfeng Yu
   - [SC liaisons:](mailto:sc_liaisons@ieeevis.org) Petra Isenberg, Stephen North
-  - [Inclusivity:](mailto:inclusivity@ieeevis.org) John Alexis Guerra Gómez, Michelle Borkin, Benjamin Tag
-  - [Accessibility:](mailto:accessibility@ieeevis.org) Kim Marriott, Dominik Moritz
-  - [Publications:](mailto:) Arvind Satyanarayan, Zhicheng Liu, Katerina Vrotsou
+  - [Inclusivity:](mailto:inclusivity@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
+  - [Accessibility:](mailto:accessibility@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
+  - [Publications:](mailto:) Minsuk Kahng, Zhicheng Liu, Cindy Xiong
 
 - Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
 
@@ -65,12 +65,12 @@ All generic email addresses below end with @ieeevis.org !
 
 - Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
 
-  - [Student volunteers:](mailto:sv@ieeevis.org) Kung-tin Cheng, Chenguang Xu (Shine), Keke Wu
-  - [Meetups:](mailto:meetups@ieeevis.org) Carmen Hull, Cindy Xiong, Yang Shi
-  - [Fast Forward:](mailto:ff@ieeevis.org) Soumya Dutta, Arjun Srinivasan, Siming Chen, Jun Tao
-  - [Technology:](mailto:tech@ieeevis.org) Kadek Satriadi, John Wenskovitch, John Thompson, Johannes Knittel
-  - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Rebecca Kehlbeck, Mashrur Rashik, Jim Smiley
-  - [Open_Practices:](mailto:open_practices@ieeevis.org) Lonni Besançon, Michael Correll, Cody Dunne
+  - [Student volunteers:](mailto:sv@ieeevis.org) Katy Williams, Noëlle Rakotondravony, Yixuan Wang, Hyeon Jeon
+  - [Meetups:](mailto:meetups@ieeevis.org) Ali Sarvghad, Isaac Cho
+  - [Fast Forward:](mailto:ff@ieeevis.org) Soumya Dutta, Ghulam Jilani Quadri, Qing Chen
+  - [Technology:](mailto:tech@ieeevis.org) Aditeya Pandey
+  - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Mashrur Rashik
+  - [Open_Practices:](mailto:open_practices@ieeevis.org) Laura Garrison, Michael Correll, Cody Dunne
 
 - Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
 
@@ -90,14 +90,14 @@ All generic email addresses below end with @ieeevis.org !
   - [Workshops:](mailto:workshops@ieeevis.org) Julian Tierny, Stefan Bruckner, Narges Mahyar, Panpan Xu
 
 - Outreach ([outreach](mailto:outreach@ieeevis.org))
-  - [Supporters](mailto:supporters@ieeevis.org) Maxime Cordeil, Benjamin Bach, Vidya Setlur, Barrett Ens, Christy Ling, Andrew Cunningham, Eli T. Brown
-  - [Community:](mailto:community@ieeevis.org) Bon Adriel Aseniero, Qing Chen, Alfie Abdul-Rahman
-  - [Publicity](mailto:publicity@ieeevis.org) Lace Padilla, Alvitta Ottley
-  - [Election:](mailto:election@ieeevis.org) Emily Wall
+  - [Supporters](mailto:supporters@ieeevis.org) Michael Krone Vidya Setlur, Chris Bryan
+  - [Community:](mailto:community@ieeevis.org) Ali Sarvghad, Isaac Cho
+  - [Publicity](mailto:publicity@ieeevis.org) Lace Padilla, Alex Kale
+  - [Election:](mailto:election@ieeevis.org) Ali Sarvghad, Isaac Cho
 
 ## Documents
 
-<!-- * [Roster](https://docs.google.com/spreadsheets/d/1jn_b7l4i9HHSqBfa1dZiuOfwHx3pHyc6czipE_B161Q/edit#gid=1136707907)
+<!-- * [Roster](https://docs.google.com/spreadsheets/d/1OUgEmI5KGL3-ba_yVxamdlVrpZYcKRwS/edit#gid=1545341771)
 * [Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0) -->
 
 - Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1dyRkCOFPRhylbTE4H50jvNfHuhm0iMS_/edit)
@@ -107,6 +107,7 @@ All generic email addresses below end with @ieeevis.org !
 
 ## Archive of this page for previous years
 
+- [2023](2023.md)
 - [2022](2022.md)
 - [2021](2021.md)
 
