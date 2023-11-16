@@ -7,7 +7,7 @@ Information from last year's conference organization can be found at the [2023 K
 - OC Calls and Meetings - **Wednesday 11:00 EST/08:00 PST/18:00 CEST, Thursday 03:00 AEST**
 - Joining the Calls: Contact archive if you need the informations.
 - Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1eeFMKXQee-Pjc-UYjZOeksbnyF50mUpaYzLimACiaw4/edit?usp=sharing)
-- Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/1c4jA2-yeTEziCt7JJbrJspYNX-0Zj_W0?usp=share_link)
+- Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/13syF8lxgArLUiqL77nrIVhUZQQQCYXpY?usp=sharing)
 
 Attention: Please **add your agenda items** and comments in the Meeting Minutes documents before each call.
 
@@ -101,7 +101,7 @@ All generic email addresses below end with @ieeevis.org !
 * [Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0) -->
 
 - Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1eeFMKXQee-Pjc-UYjZOeksbnyF50mUpaYzLimACiaw4/edit?usp=sharing)
-- Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/1c4jA2-yeTEziCt7JJbrJspYNX-0Zj_W0?usp=share_link)
+- Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/13syF8lxgArLUiqL77nrIVhUZQQQCYXpY?usp=sharing)
 - [Infodumps of 2020](https://drive.google.com/drive/u/0/folders/178IERHWBaE9vETwlt_IsfKaAOvl9ZMf2)
 - [Infodumps of 2019](https://drive.google.com/drive/u/0/folders/1P7YcmoY96kTkSbb0TUj-VWmsnd9uwmsP)
 
