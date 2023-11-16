@@ -39,61 +39,59 @@ All generic email addresses below end with @ieeevis.org !
   - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Johanna Schmidt, Kresimir Matković, Barbora Kozlíková, Eduard Gröller
   - [VEC_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Gautam Chaudhary
 
-- [Overall Paper Chairs opc](mailto:opc@ieeevis.org) Tamara Munzner, Jarke van Wijk, John Stasko
+- [Overall Paper Chairs opc](mailto:opc@ieeevis.org) Tamara Munzner, Niklas Elmqvist, Holger Theisel
 - [Overall Paper Chairs + Area Paper Chairs pcc](mailto:pcc@ieeevis.org)
 
 - Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
 
-  - [Papers](mailto:papers@ieeevis.org) Filip Sadlo, Ivan Viola, Wenwen Dou, Steffen Koch, Tatiana von Landesberger, Jiawan Zhang, Adam Perer, Matthew Kay, Daniel Keefe, Pierre Dragicevic, Chaoli Wang, Christoph Garth, Tamara Munzner, Niklas Elmqvist, Holger Theisel
+  - [Papers](mailto:papers@ieeevis.org) Filip Sadlo, Ivan Viola, Wenwen Dou, Steffen Koch, Tatiana von Landesberger, Jiawan Zhang, Adam Perer, Matthew Kay, Daniel Keefe, Pierre Dragicevic, Chaoli Wang, Christoph Garth
   - [Posters:](mailto:posters@ieeevis.org) Nan Cao, Renata Raidou, Jiazhi Xia, Wesley Willett
-  - [Panels:](mailto:panels@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
-  - [Tutorials:](mailto:tutorials@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
-  - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin, Johanna Beyer, Takayuki Itoh, Hongfeng Yu
-  - [SC liaisons:](mailto:sc_liaisons@ieeevis.org) Petra Isenberg, Stephen North
-  - [Inclusivity:](mailto:inclusivity@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
-  - [Accessibility:](mailto:accessibility@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
-  - [Publications:](mailto:) Minsuk Kahng, Zhicheng Liu, Cindy Xiong
+  - [Panels/Tutorials:](mailto:panels_tutorials@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
+  - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin, Johanna Beyer, Takayuki Itoh, Hongfen Yu
+  - [SC liaisons:](mailto:sc_liaisons@ieeevis.org) <!--Petra Isenberg, Stephen North -->
+  - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
+  - [Publications:](mailto:publications@ieeevis.org) Minsuk Kahng, Zhicheng Liu, Cindy Xiong
 
 - Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
 
-  - Area 1: [Theoretical & Empirical:](mailto:theory-empirical-apc@ieeevis.org) Alex Lex, Adam Perer
-  - Area 2: [Applications:](mailto:applications-apc@ieeevis.org) Tatiana von Landesberger, Yingcai Wu
-  - Area 3: [Systems & Rendering:](mailto:systems-rendering-apc@ieeevis.org) Tobias Isenberg, Chaoli Wang
-  - Area 4: [Representations & Interaction:](mailto:representations-interaction-apc@ieeevis.org) Pierre Dragicevic, TJ Jankun-Kelly
-  - Area 5: [Data Transformations:](mailto:data-transformations-apc@ieeevis.org) Michael Sedlmair, Ivan Viola
-  - Area 6: [Analysis & Decisions:](mailto:analytics-decisions-apc@ieeevis.org) Wenwen Dou, Alex Endert
+  - Area 1: [Theoretical & Empirical:](mailto:theory-empirical-apc@ieeevis.org) <!--Alex Lex, Adam Perer-->
+  - Area 2: [Applications:](mailto:applications-apc@ieeevis.org) <!--Tatiana von Landesberger, Yingcai Wu-->
+  - Area 3: [Systems & Rendering:](mailto:systems-rendering-apc@ieeevis.org) <!--Tobias Isenberg, Chaoli Wang-->
+  - Area 4: [Representations & Interaction:](mailto:representations-interaction-apc@ieeevis.org) <!--Pierre Dragicevic, TJ Jankun-Kelly-->
+  - Area 5: [Data Transformations:](mailto:data-transformations-apc@ieeevis.org) <!--Michael Sedlmair, Ivan Viola-->
+  - Area 6: [Analysis & Decisions:](mailto:analytics-decisions-apc@ieeevis.org) <!--Wenwen Dou, Alex Endert-->
 
 - Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
 
   - [Student volunteers:](mailto:sv@ieeevis.org) Katy Williams, Noëlle Rakotondravony, Yixuan Wang, Hyeon Jeon
-  - [Meetups:](mailto:meetups@ieeevis.org) Ali Sarvghad, Isaac Cho
+  <!-- - [Meetups:](mailto:meetups@ieeevis.org) Ali Sarvghad, Isaac Cho -->
   - [Fast Forward:](mailto:ff@ieeevis.org) Soumya Dutta, Ghulam Jilani Quadri, Qing Chen
-  - [Technology:](mailto:tech@ieeevis.org) Aditeya Pandey
+  - [Technology:](mailto:tech@ieeevis.org) Aditeya Pandey, John Thompson
   - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Mashrur Rashik
   - [Open_Practices:](mailto:open_practices@ieeevis.org) Laura Garrison, Michael Correll, Cody Dunne
 
 - Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
 
-  - [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Michael Krone, Mennatallah El-Assady
-  - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Xavier Ho, Uta Hinrichs, Rebecca Ruige Xu
-  - [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Kyle Hall, Anastasia Bezerianos, Miriah Meyer, Matthew Kay, Samuel Huron
-  - [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2022/ieeevis/) Zeynep H Gumus, Thomas Höllt, Daniel Jönsson, Renata Raidou
-  - [Doctoral_consortium:](mailto:doctoral_coll@ieeevis.org) Karen B. Schloss, Christophe Hurter, Kate Isaacs
-  - [Ldav ](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Peer-Timo Bremer, Kristi Potter, and Chaoli Wang
+  - [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Ana Crisan, Mennatallah El-Assady
+  - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Pedro Cruz, Rebecca Ruige Xu
+  - [Doctoral_colloquium:](mailto:doctoral_coll@ieeevis.org) Yunhai Wang, Christophe Hurter, Emily Wall
   - [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web](https://www.lanl.gov/projects/sciviscontest2022/) Divya Banesh, Tim Gerrits
-  - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web](https://vast-challenge.github.io/2022) Jereme Haack, Alvitta Ottley, R. Jordan Crouser
-  - [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/2022) Alvitta Ottley, Anamaria Crisan
-  - [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) Liang Gou, Claudia Plant
-  - [Vis in practice:](mailto:vip@ieeevis.org) Alexander Bock, Ayan Biswas
-  - [Vizsec ](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan
-  - [VISxAI ](mailto:orga@visxai.io) - [web](http://visxai.io/) Adam Perer, Angie Boggust, Fred Hohman, Hendrik Strobelt, Mennatallah El-Assady, Zijie Jay Wang
-  - [Workshops:](mailto:workshops@ieeevis.org) Julian Tierny, Stefan Bruckner, Narges Mahyar, Panpan Xu
+  - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web](https://vast-challenge.github.io/2022) Jereme Haack, Steve Gomez, R. Jordan Crouser
+  - [Vis in practice:](mailto:vip@ieeevis.org) Ayan Biswas
+  - [Workshops:](mailto:workshops@ieeevis.org) Julian Tierny, Stefan Bruckner, Lingyun Yu, Arvind Satyanarayan
+  - [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) 
+  - [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) 
+  - [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2022/ieeevis/) 
+  - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) 
+  - [VISxAI](mailto:orga@visxai.io) - [web](http://visxai.io/) 
+  - [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/2022) 
+  - [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) 
 
 - Outreach ([outreach](mailto:outreach@ieeevis.org))
   - [Supporters](mailto:supporters@ieeevis.org) Michael Krone Vidya Setlur, Chris Bryan
-  - [Community:](mailto:community@ieeevis.org) Ali Sarvghad, Isaac Cho
-  - [Publicity](mailto:publicity@ieeevis.org) Lace Padilla, Alex Kale
-  - [Election:](mailto:election@ieeevis.org) Ali Sarvghad, Isaac Cho
+  - [Meetups/Community/Election:](mailto:community@ieeevis.org) Ali Sarvghad, Isaac Cho
+  - [Publicity:](mailto:publicity@ieeevis.org) Lace Padilla, Alex Kale
+  - [Ombuds:](mailto:ombuds@ieeevis.org) Joshua Levine, Gautam Chaudhary, Menna El Assady, Lace Padilla
 
 ## Documents
 
