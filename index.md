@@ -67,7 +67,7 @@ All generic email addresses below end with @ieeevis.org !
   <!-- - [Meetups:](mailto:meetups@ieeevis.org) Ali Sarvghad, Isaac Cho -->
   - [Fast Forward:](mailto:ff@ieeevis.org) Soumya Dutta, Ghulam Jilani Quadri, Qing Chen
   - [Technology:](mailto:tech@ieeevis.org) Aditeya Pandey, John Thompson, Harry Li
-  - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Mashrur Rashik
+  - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Mashrur Rashik, Mahmood Jasim
   - [Open_Practices:](mailto:open_practices@ieeevis.org) Laura Garrison, Michael Correll, Cody Dunne
 
 - Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
