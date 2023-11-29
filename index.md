@@ -67,7 +67,7 @@ All generic email addresses below end with @ieeevis.org !
   <!-- - [Meetups:](mailto:meetups@ieeevis.org) Ali Sarvghad, Isaac Cho -->
   - [Fast Forward:](mailto:ff@ieeevis.org) Soumya Dutta, Ghulam Jilani Quadri, Qing Chen
   - [Technology:](mailto:tech@ieeevis.org) Aditeya Pandey, John Thompson, Harry Li
-  - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Mashrur Rashik, Mahmood Jasim
+  - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Mashrur Rashik, Mahmood Jasim, Shayan Monadjemi
   - [Open_Practices:](mailto:open_practices@ieeevis.org) Laura Garrison, Michael Correll, Cody Dunne
 
 - Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
@@ -77,7 +77,7 @@ All generic email addresses below end with @ieeevis.org !
   - [Doctoral_colloquium:](mailto:doctoral_coll@ieeevis.org) Yunhai Wang, Christophe Hurter, Emily Wall
   - [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web](https://www.lanl.gov/projects/sciviscontest2022/) Divya Banesh, Tim Gerrits
   - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web](https://vast-challenge.github.io/2022) Jereme Haack, Steve Gomez, R. Jordan Crouser
-  - [Vis in practice:](mailto:vip@ieeevis.org) Ayan Biswas
+  - [Vis in practice:](mailto:vip@ieeevis.org) Ayan Biswas, Arjun Srinivasan
   - [Workshops:](mailto:workshops@ieeevis.org) Julian Tierny, Stefan Bruckner, Lingyun Yu, Arvind Satyanarayan
   - [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Peer-Timo Bremer, Kristi Potter, and Chaoli Wang
   - [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Kyle Hall, Anastasia Bezerianos, Miriah Meyer, Matthew Kay, Samuel Huron 
