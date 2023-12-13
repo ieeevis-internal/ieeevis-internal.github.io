@@ -47,19 +47,19 @@ All generic email addresses below end with @ieeevis.org !
   - [Papers](mailto:papers@ieeevis.org) Filip Sadlo, Ivan Viola, Wenwen Dou, Steffen Koch, Tatiana von Landesberger, Jiawan Zhang, Adam Perer, Matthew Kay, Daniel Keefe, Pierre Dragicevic, Chaoli Wang, Christoph Garth
   - [Posters:](mailto:posters@ieeevis.org) Nan Cao, Renata Raidou, Jiazhi Xia, Wesley Willett
   - [Panels/Tutorials:](mailto:panels_tutorials@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
-  - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin, Johanna Beyer, Takayuki Itoh, Hongfen Yu
+  - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin, Johanna Beyer, Takayuki Itoh, Hongfeng Yu
   - [SC liaisons:](mailto:sc_liaisons@ieeevis.org) Petra Isenberg, Stephen North
   - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
   - [Publications:](mailto:publications@ieeevis.org) Minsuk Kahng, Zhicheng Liu, Cindy Xiong
 
 - Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
 
-  - Area 1: [Theoretical & Empirical:](mailto:theory-empirical-apc@ieeevis.org) Alex Lex, Adam Perer
-  - Area 2: [Applications:](mailto:applications-apc@ieeevis.org) Tatiana von Landesberger, Yingcai Wu
-  - Area 3: [Systems & Rendering:](mailto:systems-rendering-apc@ieeevis.org) Tobias Isenberg, Chaoli Wang
-  - Area 4: [Representations & Interaction:](mailto:representations-interaction-apc@ieeevis.org) Pierre Dragicevic, TJ Jankun-Kelly
-  - Area 5: [Data Transformations:](mailto:data-transformations-apc@ieeevis.org) Michael Sedlmair, Ivan Viola
-  - Area 6: [Analysis & Decisions:](mailto:analytics-decisions-apc@ieeevis.org) Wenwen Dou, Alex Endert
+  - Area 1: [Theoretical & Empirical:](mailto:theory-empirical-apc@ieeevis.org) Adam Perer, Matthew Kay
+  - Area 2: [Applications:](mailto:applications-apc@ieeevis.org) Tatiana von Landesberger, Jiawan Zhang
+  - Area 3: [Systems & Rendering:](mailto:systems-rendering-apc@ieeevis.org) Chaoli Wang, Christoph Garth
+  - Area 4: [Representations & Interaction:](mailto:representations-interaction-apc@ieeevis.org) Daniel Keefe, Pierre Dragicevic
+  - Area 5: [Data Transformations:](mailto:data-transformations-apc@ieeevis.org) Filip Sadlo, Ivan Viola
+  - Area 6: [Analysis & Decisions:](mailto:analytics-decisions-apc@ieeevis.org) Wenwen Dou, Steffen Koch
 
 - Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
 
