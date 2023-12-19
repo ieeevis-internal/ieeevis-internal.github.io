@@ -44,6 +44,7 @@ All generic email addresses below end with @ieeevis.org !
 
 - Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
 
+  - [Area Curation Committee](mailto:acc@ieeevis.org) Jean-Daniel Fekete, Alexander Lex, Danielle Szafir, David Laidlaw, Mike Papka, Yingcai Wu, Helwig Hauser, Torsten Moeller, Ingrid Hotz
   - [Papers](mailto:papers@ieeevis.org) Filip Sadlo, Ivan Viola, Wenwen Dou, Steffen Koch, Tatiana von Landesberger, Jiawan Zhang, Adam Perer, Matthew Kay, Daniel Keefe, Pierre Dragicevic, Chaoli Wang, Christoph Garth
   - [Posters:](mailto:posters@ieeevis.org) Nan Cao, Renata Raidou, Jiazhi Xia, Wesley Willett
   - [Panels/Tutorials:](mailto:panels_tutorials@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
@@ -89,7 +90,7 @@ All generic email addresses below end with @ieeevis.org !
 
 - Outreach ([outreach](mailto:outreach@ieeevis.org))
   - [Supporters](mailto:supporters@ieeevis.org) Michael Krone Vidya Setlur, Chris Bryan
-  - [Meetups/Community/Election:](mailto:community@ieeevis.org) Ali Sarvghad, Isaac Cho
+  - [Meetups/Community/Election:](mailto:community@ieeevis.org) Ali Sarvghad, Isaac Cho, Georgia Panagiotidou
   - [Publicity:](mailto:publicity@ieeevis.org) Lace Padilla, Alex Kale
   - [Ombuds:](mailto:ombuds@ieeevis.org) Joshua Levine, Gautam Chaudhary, Menna El Assady, Lace Padilla
 
