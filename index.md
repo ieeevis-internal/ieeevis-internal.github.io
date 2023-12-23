@@ -74,14 +74,14 @@ All generic email addresses below end with @ieeevis.org !
 - Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
 
   - [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Ana Crisan, Mennatallah El-Assady
-  - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Pedro Cruz, Rebecca Ruige Xu
+  - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Pedro Cruz, Rebecca Ruige Xu, Rewa Wright
   - [Doctoral_colloquium:](mailto:doctoral_coll@ieeevis.org) Yunhai Wang, Christophe Hurter, Emily Wall
   - [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web](https://www.lanl.gov/projects/sciviscontest2022/) Divya Banesh, Tim Gerrits
   - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web](https://vast-challenge.github.io/2022) Jereme Haack, Steve Gomez, R. Jordan Crouser
   - [Vis in practice:](mailto:vip@ieeevis.org) Ayan Biswas, Arjun Srinivasan
   - [Workshops:](mailto:workshops@ieeevis.org) Julian Tierny, Stefan Bruckner, Lingyun Yu, Arvind Satyanarayan
   - [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Peer-Timo Bremer, Kristi Potter, and Chaoli Wang
-  - [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Kyle Hall, Anastasia Bezerianos, Miriah Meyer, Matthew Kay, Samuel Huron 
+  - [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Kyle Hall, Anastasia Bezerianos, Miriah Meyer, Matthew Kay, Samuel Huron
   - [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2022/ieeevis/) Zeynep H Gumus, Thomas Höllt, Daniel Jönsson, Renata Raidou
   - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan
   - [VISxAI](mailto:orga@visxai.io) - [web](http://visxai.io/) Adam Perer, Angie Boggust, Fred Hohman, Hendrik Strobelt, Mennatallah El-Assady, Zijie Jay Wang
