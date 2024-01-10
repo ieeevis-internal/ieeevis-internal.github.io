@@ -49,7 +49,7 @@ All generic email addresses below end with @ieeevis.org !
   - [Posters:](mailto:posters@ieeevis.org) Nan Cao, Renata Raidou, Jiazhi Xia, Wesley Willett
   - [Panels/Tutorials:](mailto:panels_tutorials@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
   - [Shortpapers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin, Johanna Beyer, Takayuki Itoh, Hongfeng Yu
-  - [SC liaisons:](mailto:sc_liaisons@ieeevis.org) Petra Isenberg, Stephen North
+  - [SC liaisons:](mailto:sc_liaisons@ieeevis.org) Petra Isenberg, Miriah Meyer
   - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
   - [Publications:](mailto:publications@ieeevis.org) Minsuk Kahng, Zhicheng Liu, Cindy Xiong
 
