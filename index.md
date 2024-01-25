@@ -82,12 +82,13 @@ All generic email addresses below end with @ieeevis.org !
   - [Workshops:](mailto:workshops@ieeevis.org) Julian Tierny, Stefan Bruckner, Lingyun Yu, Arvind Satyanarayan
   - [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Johanna Beyer, Steffen Frey
   - [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Anastasia Bezerianos, Kyle Hall, Samuel Huron, Matthew Kay, Michael Correll
-  - [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2022/ieeevis/) Nils Gehlenborg, Barbora Kozlikova
+  - [Biovis](mailto:biomedvis@ieeevis.org) - [web](http://biovis.net/2024/) Nils Gehlenborg, Barbora Kozlikova
+  - [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2024/biovisChallenges_vis/) Nils Gehlenborg, Barbora Kozlikova
   - [VISxAI](mailto:orga@visxai.io) - [web](http://visxai.io/) Angie Boggust, Mennatallah El-Assady, Alex Bauerle, Fred Hohman, Hendrik Strobelt
   - [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/) John Wenskovitch
   - [TopoInVis](mailto:topoinvis@ieeevis.org) - [web](https://topoinvis.org/) Divya Banesh, Guoning Chen
-  <!-- - [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) Liang Gou, Claudia Plant -->
-   <!-- - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan -->
+    <!-- - [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) Liang Gou, Claudia Plant -->
+     <!-- - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan -->
 
 - Outreach ([outreach](mailto:outreach@ieeevis.org))
   - [Supporters](mailto:supporters@ieeevis.org) Michael Krone Vidya Setlur, Chris Bryan
