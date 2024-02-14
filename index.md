@@ -21,10 +21,11 @@ Attention: Please **add your agenda items** and comments in the Meeting Minutes 
 - Website live: [ieeevis.org](ieeevis.org)
 - Website preview: [staging.ieeevis.org](staging.ieeevis.org)
 - Website editing instruction:[http://ieeevis.org/instructions](http://ieeevis.org/instructions)
-- Slack channel : See invite -- please write archive if you didn't get one.
-- Twitter : [@ieeevis](https://twitter.com/ieeevis)
+- Slack channel: See invite -- please write archive if you didn't get one.
+- Twitter: [@ieeevis](https://twitter.com/ieeevis)
+- Conference photos: [drive folder](https://drive.google.com/drive/folders/1vUHPbM7OBizu6jFE-lZiqSDkCgAIxfQn?usp=drive_link)
 
-## Quick Contacts
+## Quick contacts
 
 [Roster](https://docs.google.com/spreadsheets/d/1OUgEmI5KGL3-ba_yVxamdlVrpZYcKRwS/edit#gid=1545341771)
 
@@ -107,6 +108,7 @@ All generic email addresses below end with @ieeevis.org !
 
 - Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1eeFMKXQee-Pjc-UYjZOeksbnyF50mUpaYzLimACiaw4/edit?usp=sharing)
 - Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/13syF8lxgArLUiqL77nrIVhUZQQQCYXpY?usp=sharing)
+- Conference Photos: [drive folder](https://drive.google.com/drive/folders/1vUHPbM7OBizu6jFE-lZiqSDkCgAIxfQn?usp=drive_link)
 - [Infodumps of 2020](https://drive.google.com/drive/u/0/folders/178IERHWBaE9vETwlt_IsfKaAOvl9ZMf2)
 - [Infodumps of 2019](https://drive.google.com/drive/u/0/folders/1P7YcmoY96kTkSbb0TUj-VWmsnd9uwmsP)
 
