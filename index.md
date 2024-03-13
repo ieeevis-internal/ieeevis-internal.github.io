@@ -40,11 +40,12 @@ All generic email addresses below end with @ieeevis.org !
   - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Johanna Schmidt, Kresimir Matković, Barbora Kozlíková, Eduard Gröller
   - [VEC_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Gautam Chaudhary
 
+- Area Curation Committee [(area_curation)](mailto:area_curation@ieeevis.org): Jean-Daniel Fekete, Alexander Lex, Danielle Szafir, David Laidlaw, Mike Papka, Yingcai Wu, Helwig Hauser, Torsten Moeller, Ingrid Hotz
 
-- Area Curation Committee [(acc)](mailto:acc@ieeevis.org): Jean-Daniel Fekete, Alexander Lex, Danielle Szafir, David Laidlaw, Mike Papka, Yingcai Wu, Helwig Hauser, Torsten Moeller, Ingrid Hotz
-
+- Area Curation Committee Chairs [(acc_chairs)](mailto:acc_chairs@ieeevis.org): Jean-Daniel Fekete, Alexander Lex
 
 - Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
+
   - [Overall Paper Chairs (opc):](mailto:opc@ieeevis.org) Tamara Munzner, Niklas Elmqvist, Holger Theisel
   - [Posters:](mailto:posters@ieeevis.org) Nan Cao, Renata Raidou, Jiazhi Xia, Wesley Willett
   - [Panels/Tutorials:](mailto:panels_tutorials@ieeevis.org) Cagatay Turkay, Kai Lawonn, Leilani Battle
@@ -53,8 +54,8 @@ All generic email addresses below end with @ieeevis.org !
   - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
   - [Publications:](mailto:publications@ieeevis.org) Minsuk Kahng, Zhicheng Liu, Cindy Xiong
 
-
 - Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
+
   - Area 1: [Theoretical & Empirical:](mailto:theory-empirical-apc@ieeevis.org) Adam Perer, Matthew Kay
   - Area 2: [Applications:](mailto:applications-apc@ieeevis.org) Tatiana von Landesberger, Jiawan Zhang
   - Area 3: [Systems & Rendering:](mailto:systems-rendering-apc@ieeevis.org) Chaoli Wang, Christoph Garth
@@ -62,11 +63,10 @@ All generic email addresses below end with @ieeevis.org !
   - Area 5: [Data Transformations:](mailto:data-transformations-apc@ieeevis.org) Filip Sadlo, Ivan Viola
   - Area 6: [Analysis & Decisions:](mailto:analytics-decisions-apc@ieeevis.org) Wenwen Dou, Steffen Koch
 
-
 - Overall Paper Chairs + Area Paper Chairs [(pcc)](mailto:pcc@ieeevis.org)
 
-
 - Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
+
   - [Student volunteers:](mailto:sv@ieeevis.org) Katy Williams, Noëlle Rakotondravony, Yixuan Wang, Hyeon Jeon
   <!-- - [Meetups:](mailto:meetups@ieeevis.org) Ali Sarvghad, Isaac Cho -->
   - [Fast Forward:](mailto:ff@ieeevis.org) Soumya Dutta, Ghulam Jilani Quadri, Qing Chen
@@ -74,8 +74,8 @@ All generic email addresses below end with @ieeevis.org !
   - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Mashrur Rashik, Mahmood Jasim, Shayan Monadjemi
   - [Open_Practices:](mailto:open_practices@ieeevis.org) Laura Garrison, Michael Correll, Cody Dunne
 
-
 - Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
+
   - [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Ana Crisan, Mennatallah El-Assady
   - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Pedro Cruz, Rebecca Ruige Xu, Rewa Wright
   - [Doctoral_colloquium:](mailto:doctoral_coll@ieeevis.org) Yunhai Wang, Christophe Hurter, Emily Wall
@@ -94,6 +94,7 @@ All generic email addresses below end with @ieeevis.org !
      <!-- - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan -->
 
 - Outreach ([outreach](mailto:outreach@ieeevis.org))
+
   - [Supporters:](mailto:supporters@ieeevis.org) Michael Krone Vidya Setlur, Chris Bryan, Saeed Boor Boor
   - [Community/Meetups/Election:](mailto:community@ieeevis.org) Ali Sarvghad, Isaac Cho, Georgia Panagiotidou
   - [Publicity:](mailto:publicity@ieeevis.org) Lace Padilla, Alex Kale
