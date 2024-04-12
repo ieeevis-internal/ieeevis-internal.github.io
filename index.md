@@ -83,13 +83,15 @@ All generic email addresses below end with @ieeevis.org !
   - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web](https://vast-challenge.github.io/2022) Jereme Haack, Steve Gomez, R. Jordan Crouser
   - [Vis in practice:](mailto:vip@ieeevis.org) Ayan Biswas, Arjun Srinivasan
   - [Workshops:](mailto:workshops@ieeevis.org) Julian Tierny, Stefan Bruckner, Lingyun Yu, Arvind Satyanarayan
-  - [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Johanna Beyer, Steffen Frey
+  - [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Johanna Beyer, Steffen Frey, Guido Reina, Gunther Weber, Silvio Rizzi
   - [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Anastasia Bezerianos, Kyle Hall, Samuel Huron, Matthew Kay, Michael Correll
   - [Biovis](mailto:biomedvis@ieeevis.org) - [web](http://biovis.net/2024/) Nils Gehlenborg, Barbora Kozlikova
   - [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2024/biovisChallenges_vis/) Nils Gehlenborg, Barbora Kozlikova
   - [VISxAI](mailto:orga@visxai.io) - [web](http://visxai.io/) Angie Boggust, Mennatallah El-Assady, Alex Bauerle, Fred Hohman, Hendrik Strobelt
   - [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/) John Wenskovitch
   - [TopoInVis](mailto:topoinvis@ieeevis.org) - [web](https://topoinvis.org/) Divya Banesh, Guoning Chen, Federico Iuricich, Yue Zhang, Lin Yan
+  - [PDAV](mailto:pdav-chairs@ieeevis.com) - Jean-Daniel Fekete, Michael Sedlmair, Jeamin Cho, Alex Ulmer 
+
     <!-- - [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) Liang Gou, Claudia Plant -->
      <!-- - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan -->
 
