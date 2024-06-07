@@ -35,7 +35,7 @@ All generic email addresses below end with @ieeevis.org !
 
   - [General_Chair:](mailto:general_chair@ieeevis.org) Paul Rosen, Kristi Potter, Remco Chang
   - [Finance:](mailto:finance@ieeevis.org) Loretta Auvil, Maria C. Velez, Bhavana Doppalapudi
-  - [Program:](mailto:program@ieeevis.org) Joshua A. Levine, Lane Harrison, Kate Issacs
+  - [Program:](mailto:program@ieeevis.org) Joshua A. Levine, Lane Harrison, Kate Isaacs
   - [Archive:](mailto:archive@ieeevis.org) Mukund Raj, Ashley Suh, Kyle Hall, Carolina Nobre, Nicole Sultanum
   - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Johanna Schmidt, Kresimir Matković, Barbora Kozlíková, Eduard Gröller
   - [VEC_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Gautam Chaudhary
