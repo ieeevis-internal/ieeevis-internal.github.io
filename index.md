@@ -90,7 +90,8 @@ All generic email addresses below end with @ieeevis.org !
   - [VISxAI](mailto:orga@visxai.io) - [web](http://visxai.io/) Angie Boggust, Mennatallah El-Assady, Alex Bauerle, Fred Hohman, Hendrik Strobelt
   - [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/) John Wenskovitch
   - [TopoInVis](mailto:topoinvis@ieeevis.org) - [web](https://topoinvis.org/) Divya Banesh, Guoning Chen, Federico Iuricich, Yue Zhang, Lin Yan
-  - [PDAV](mailto:pdav-chairs@ieeevis.com) - Jean-Daniel Fekete, Michael Sedlmair, Jeamin Cho, Alex Ulmer 
+  - [PDAV](mailto:pdav-chairs@ieeevis.com) - Jean-Daniel Fekete, Michael Sedlmair, Jeamin Cho, Alex Ulmer
+  - [EduVis](mailto:ieee-eduvis@googlegroups.com) - [web](https://ieee-eduvis.github.io/) Fateme Rajabiyazdi, Mandy Keck, Lonni Besançon, Alon Friedman, Ben Bach
 
     <!-- - [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) Liang Gou, Claudia Plant -->
      <!-- - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan -->
