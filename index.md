@@ -102,7 +102,7 @@ All generic email addresses below end with @ieeevis.org !
   - [Publicity:](mailto:publicity@ieeevis.org) Lace Padilla, Alex Kale
   - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
 
-- Ombuds ([ombuds](mailto:ombuds@ieeevis.org)): Joshua Levine, Gautam Chaudhary, Menna El Assady, Lace Padilla
+- Ombuds ([ombuds](mailto:ombuds@ieeevis.org)): Joshua Levine, Gautam Chaudhary, Menna El Assady, Lace Padilla, Alfie Abdul Rahman, Jordan Crouser
 
 ## Documents
 
