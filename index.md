@@ -1,13 +1,13 @@
 # VIS 2024 Knowledge Base
 
-Information from last year's conference organization can be found at the [2023 Knowledge Base](https://drive.google.com/drive/u/0/folders/1BuqCDkwr0lz5s-E0P_paCuKHIcUJEWOO) and should be used to complete the chair reports. Please work with your co-chairs [2024_roster](https://docs.google.com/spreadsheets/d/1OUgEmI5KGL3-ba_yVxamdlVrpZYcKRwS/edit#gid=1545341771) to update the document associated with your Organizing Committee position. Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org), or submit a pull request [on github](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
+Information from last year's conference organization can be found at the [2024 Knowledge Base](https://drive.google.com/drive/u/0/folders/1BuqCDkwr0lz5s-E0P_paCuKHIcUJEWOO) and should be used to complete the chair reports. Please work with your co-chairs [2025_roster](https://docs.google.com/spreadsheets/d/1pPRJJbRV_WdVUe4ayrBZMfrPgXIkSyIVRT7nUuhprzE/edit?gid=0#gid=0) to update the document associated with your Organizing Committee position. Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org), or submit a pull request [on github](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
 
 ## Meetings
 
-- OC Calls and Meetings - **Wednesday 11:00 EST/08:00 PST/18:00 CEST, Thursday 03:00 AEST**
-- Joining the Calls: Contact archive if you need the informations.
-- Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1eeFMKXQee-Pjc-UYjZOeksbnyF50mUpaYzLimACiaw4/edit?usp=sharing)
-- Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/13syF8lxgArLUiqL77nrIVhUZQQQCYXpY?usp=sharing)
+<!--- OC Calls and Meetings - **Wednesday 11:00 EST/08:00 PST/18:00 CEST, Thursday 03:00 AEST**-->
+<!--- Joining the Calls: Contact archive if you need the informations.-->
+<!--- Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1eeFMKXQee-Pjc-UYjZOeksbnyF50mUpaYzLimACiaw4/edit?usp=sharing)-->
+<!--- Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/13syF8lxgArLUiqL77nrIVhUZQQQCYXpY?usp=sharing)-->
 
 Attention: Please **add your agenda items** and comments in the Meeting Minutes documents before each call.
 
@@ -21,7 +21,7 @@ Attention: Please **add your agenda items** and comments in the Meeting Minutes 
 - Website live: [ieeevis.org](ieeevis.org)
 - Website preview: [staging.ieeevis.org](staging.ieeevis.org)
 - Website editing instruction:[http://ieeevis.org/instructions](http://ieeevis.org/instructions)
-- Slack channel: See invite -- please write archive if you didn't get one.
+- Discord : See invite -- please write archive if you didn't get one.
 - Twitter: [@ieeevis](https://twitter.com/ieeevis)
 - Conference photos: [drive folder](https://drive.google.com/drive/folders/1vUHPbM7OBizu6jFE-lZiqSDkCgAIxfQn?usp=drive_link)
 
@@ -40,7 +40,7 @@ All generic email addresses below end with @ieeevis.org !
   - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Arvind Satyanarayan, Lane Harrison, Hendrik Strobelt, Lace Padilla
   - [VEC_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Gautam Chaudhary
 
-- Area Curation Committee [(area_curation)](mailto:area_curation@ieeevis.org): Jean-Daniel Fekete, Alexander Lex, Danielle Szafir, David Laidlaw, Mike Papka, Yingcai Wu, Helwig Hauser, Torsten Moeller, Ingrid Hotz
+- Area Curation Committee [(area_curation)](mailto:area_curation@ieeevis.org): Yingcai Wu, Danielle Szafir, Helwig Hauser ,Jean-Daniel Fekete, Alexander Lex, Michael Papka
 
 - Area Curation Committee Chairs [(acc_chairs)](mailto:acc_chairs@ieeevis.org): Jean-Daniel Fekete, Alexander Lex
 
@@ -49,7 +49,7 @@ All generic email addresses below end with @ieeevis.org !
   - [Overall Paper Chairs (opc):](mailto:opc@ieeevis.org) Melanie Tory, Niklas Elmqvist, Holger Theisel, Petra Specht
   - [Posters:](mailto:posters@ieeevis.org) Benjamin Bach, Renata Raidou, Alvitta Ottley, Lingyun Yu
   - [Panels/Tutorials:](mailto:panels_tutorials@ieeevis.org) Qianwen Wang, Kai Lawonn, Leilani Battle
-  - [Short Papers:](mailto:vis_shortpapers@ieeevis.org) Charles Perin, Julian Tierny, Cagatay Turkay, Jiazhi Xia
+  - [Short Papers:](mailto:shortpapers@ieeevis.org) Charles Perin, Julian Tierny, Cagatay Turkay, Jiazhi Xia
   - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) Laura Kösten, John Thompson, Ab Mosca
   - [Publications:](mailto:publications@ieeevis.org) Minsuk Kahng, Zhicheng Liu, Cindy Xiong
 
@@ -61,56 +61,53 @@ All generic email addresses below end with @ieeevis.org !
 
 - Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
 
-  - [Student volunteers:](mailto:sv@ieeevis.org) Katy Williams, Noëlle Rakotondravony, Yixuan Wang, Hyeon Jeon, Jeremy Block
-  <!-- - [Meetups:](mailto:meetups@ieeevis.org) Ali Sarvghad, Isaac Cho -->
-  - [Fast Forward:](mailto:ff@ieeevis.org) Soumya Dutta, Ghulam Jilani Quadri, Qing Chen
-  - [Technology:](mailto:tech@ieeevis.org) Aditeya Pandey, John Thompson, Harry Li, Kelvin Li
-  - [Web](mailto:web@ieeevis.org) Dylan Cashman, Steve Petruzza, Janos Zimmermann, Mashrur Rashik, Mahmood Jasim, Shayan Monadjemi
-  - [Open_Practices:](mailto:open_practices@ieeevis.org) Laura Garrison, Michael Correll, Cody Dunne
+  - [Student volunteers:](mailto:sv@ieeevis.org) Hyeon Jeon, Yixuan Wang, Magdalena 'Momo' Boucher, Hamza Elhamdadi, Zeyang Huang
+  - [Technology:](mailto:tech@ieeevis.org) Jan Byska, Kelvin Li, Alexander Rind
+  - [Web](mailto:web@ieeevis.org) Harry Li, Shayan Monadjemi, Mashrur Rashik, Mahmood Jasim
+  - [Open_Practices:](mailto:open_practices@ieeevis.org) Laura Garrison, Devin Lange, Lace Padilla
 
 - Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
 
-  - [Application_spotlights:](mailto:application_spotlights@ieeevis.org) Ana Crisan, Mennatallah El-Assady
-  - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Pedro Cruz, Rebecca Ruige Xu, Rewa Wright
-  - [Doctoral_colloquium:](mailto:doctoral_coll@ieeevis.org) Yunhai Wang, Christophe Hurter, Emily Wall
-  - [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web](https://www.lanl.gov/projects/sciviscontest2022/) Divya Banesh, Tim Gerrits
-  - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web](https://vast-challenge.github.io/2022) Jereme Haack, Steve Gomez, R. Jordan Crouser
-  - [Vis in practice:](mailto:vip@ieeevis.org) Ayan Biswas, Arjun Srinivasan
-  - [Workshops:](mailto:workshops@ieeevis.org) Julian Tierny, Stefan Bruckner, Lingyun Yu, Arvind Satyanarayan
-  - [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Johanna Beyer, Steffen Frey, Guido Reina, Gunther Weber, Silvio Rizzi
-  - [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Anastasia Bezerianos, Kyle Hall, Samuel Huron, Matthew Kay, Michael Correll
-  - [Biovis](mailto:biomedvis@ieeevis.org) - [web](http://biovis.net/2024/) Nils Gehlenborg, Barbora Kozlikova
-  - [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2024/biovisChallenges_vis/) Nils Gehlenborg, Barbora Kozlikova
-  - [VISxAI](mailto:orga@visxai.io) - [web](http://visxai.io/) Angie Boggust, Mennatallah El-Assady, Alex Bauerle, Fred Hohman, Hendrik Strobelt
-  - [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/) John Wenskovitch
-  - [TopoInVis](mailto:topoinvis@ieeevis.org) - [web](https://topoinvis.org/) Divya Banesh, Guoning Chen, Federico Iuricich, Yue Zhang, Lin Yan
-  - [PDAV](mailto:pdav-chairs@ieeevis.com) - Jean-Daniel Fekete, Michael Sedlmair, Jeamin Cho, Alex Ulmer 
+  - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Rewa Wright, Pedro Cruz, Rebecca Ruige Xu
+  - [Doctoral_colloquium:](mailto:doctoral_coll@ieeevis.org) Yunhai Wang, Michael Behrisch, Emily Wall
+  - [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web]() Christoph Heinzl, Tim Gerrits 
+  - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web]() Jereme Haack, Steve Gomez, R. Jordan Crouser
+  - [Vis in practice:](mailto:vip@ieeevis.org) Arjun Srinivasan, Chris Bryan
+  - [Workshops:](mailto:workshops@ieeevis.org) Ross Maciejewski, Petra Isenberg, Michael Papka, Arvind Satyanarayan, Ana Crisan
+  <!--- [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Johanna Beyer, Steffen Frey, Guido Reina, Gunther Weber, Silvio Rizzi-->
+  <!--- [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Anastasia Bezerianos, Kyle Hall, Samuel Huron, Matthew Kay, Michael Correll-->
+  <!--- [Biovis](mailto:biomedvis@ieeevis.org) - [web](http://biovis.net/2024/) Nils Gehlenborg, Barbora Kozlikova-->
+  <!--- [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2024/biovisChallenges_vis/) Nils Gehlenborg, Barbora Kozlikova-->
+  <!--- [VISxAI](mailto:orga@visxai.io) - [web](http://visxai.io/) Angie Boggust, Mennatallah El-Assady, Alex Bauerle, Fred Hohman, Hendrik Strobelt-->
+  <!--- [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/) John Wenskovitch-->
+  <!--- [TopoInVis](mailto:topoinvis@ieeevis.org) - [web](https://topoinvis.org/) Divya Banesh, Guoning Chen, Federico Iuricich, Yue Zhang, Lin Yan-->
+  <!--- [PDAV](mailto:pdav-chairs@ieeevis.com) - Jean-Daniel Fekete, Michael Sedlmair, Jeamin Cho, Alex Ulmer -->
 
     <!-- - [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) Liang Gou, Claudia Plant -->
      <!-- - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan -->
 
 - Outreach ([outreach](mailto:outreach@ieeevis.org))
 
-  - [Supporters:](mailto:supporters@ieeevis.org) Michael Krone Vidya Setlur, Chris Bryan, Saeed Boor Boor
-  - [Community/Meetups/Election:](mailto:community@ieeevis.org) Ali Sarvghad, Isaac Cho, Georgia Panagiotidou
-  - [Publicity:](mailto:publicity@ieeevis.org) Lace Padilla, Alex Kale
-  - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) John Alexis Guerra Gómez, Dominik Moritz, Ab Mosca
+  - [Supporters:](mailto:supporters@ieeevis.org) Michael Krone, Victor Mateevitsi, Chris Traxler, Dominik Moritz
+  - [Community/Meetups/Election:](mailto:community@ieeevis.org) Isaac Cho, Kyle Wm. Hall, Georgia Panagiotidou
+  - [Publicity:](mailto:publicity@ieeevis.org) Khairi Reda, Alex Kale
 
-- Ombuds ([ombuds](mailto:ombuds@ieeevis.org)): Joshua Levine, Gautam Chaudhary, Menna El Assady, Lace Padilla, Alfie Abdul Rahman, Jordan Crouser
+- Ombuds ([ombuds](mailto:ombuds@ieeevis.org)): Joshua Levine, Jordan Crouser, Alfie Abdul Rahman, Katerina Vrotsou, Menna El Assady, Lace Padilla
 
 ## Documents
 
 <!-- * [Roster](https://docs.google.com/spreadsheets/d/1OUgEmI5KGL3-ba_yVxamdlVrpZYcKRwS/edit#gid=1545341771)
 * [Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0) -->
 
-- Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1eeFMKXQee-Pjc-UYjZOeksbnyF50mUpaYzLimACiaw4/edit?usp=sharing)
-- Meeting Minutes: [Google Drive](https://drive.google.com/drive/folders/13syF8lxgArLUiqL77nrIVhUZQQQCYXpY?usp=sharing)
+- Call Schedule: [Spreadsheet | Calendar]()
+- Meeting Minutes: [Google Drive]()
 - Conference Photos: [drive folder](https://drive.google.com/drive/folders/1vUHPbM7OBizu6jFE-lZiqSDkCgAIxfQn?usp=drive_link)
 - [Infodumps of 2020](https://drive.google.com/drive/u/0/folders/178IERHWBaE9vETwlt_IsfKaAOvl9ZMf2)
 - [Infodumps of 2019](https://drive.google.com/drive/u/0/folders/1P7YcmoY96kTkSbb0TUj-VWmsnd9uwmsP)
 
 ## Archive of this page for previous years
 
+- [2024](2024.md)
 - [2023](2023.md)
 - [2022](2022.md)
 - [2021](2021.md)
