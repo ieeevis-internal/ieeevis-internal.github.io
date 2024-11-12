@@ -21,7 +21,7 @@ Attention: Please **add your agenda items** and comments in the Meeting Minutes 
 - Website live: [ieeevis.org](ieeevis.org)
 - Website preview: [staging.ieeevis.org](staging.ieeevis.org)
 - Website editing instruction:[http://ieeevis.org/instructions](http://ieeevis.org/instructions)
-- Discord : See invite -- please write archive if you didn't get one.
+- Discord : See invite -- please write to tech if you didn't get one.
 - Twitter: [@ieeevis](https://twitter.com/ieeevis)
 - Conference photos: [drive folder](https://drive.google.com/drive/folders/1vUHPbM7OBizu6jFE-lZiqSDkCgAIxfQn?usp=drive_link)
 
@@ -74,17 +74,6 @@ All generic email addresses below end with @ieeevis.org !
   - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web]() Jereme Haack, Steve Gomez, R. Jordan Crouser
   - [Vis in practice:](mailto:vip@ieeevis.org) Arjun Srinivasan, Chris Bryan
   - [Workshops:](mailto:workshops@ieeevis.org) Ross Maciejewski, Petra Isenberg, Michael Papka, Arvind Satyanarayan, Ana Crisan
-  <!--- [Ldav](mailto:ldav@ieeevis.org) - [web](https://ldav.org/) Johanna Beyer, Steffen Frey, Guido Reina, Gunther Weber, Silvio Rizzi-->
-  <!--- [Beliv](mailto:beliv@ieeevis.org) - [web](https://beliv-workshop.github.io/) Anastasia Bezerianos, Kyle Hall, Samuel Huron, Matthew Kay, Michael Correll-->
-  <!--- [Biovis](mailto:biomedvis@ieeevis.org) - [web](http://biovis.net/2024/) Nils Gehlenborg, Barbora Kozlikova-->
-  <!--- [Biovis_challenge](mailto:biovis_challenge@ieeevis.org) - [web](http://biovis.net/2024/biovisChallenges_vis/) Nils Gehlenborg, Barbora Kozlikova-->
-  <!--- [VISxAI](mailto:orga@visxai.io) - [web](http://visxai.io/) Angie Boggust, Mennatallah El-Assady, Alex Bauerle, Fred Hohman, Hendrik Strobelt-->
-  <!--- [Vds](mailto:vds@ieeevis.org) - [web](http://www.visualdatascience.org/) John Wenskovitch-->
-  <!--- [TopoInVis](mailto:topoinvis@ieeevis.org) - [web](https://topoinvis.org/) Divya Banesh, Guoning Chen, Federico Iuricich, Yue Zhang, Lin Yan-->
-  <!--- [PDAV](mailto:pdav-chairs@ieeevis.com) - Jean-Daniel Fekete, Michael Sedlmair, Jeamin Cho, Alex Ulmer -->
-
-    <!-- - [Vis4DH](mailto:vis4dh@ieeevis.org) - [web](https://vis4dh.dbvis.de/cfp/) Liang Gou, Claudia Plant -->
-     <!-- - [Vizsec](mailto:vizsec@ieeevis.org) - [web](https://vizsec.org/) Chris Bryan -->
 
 - Outreach ([outreach](mailto:outreach@ieeevis.org))
 
