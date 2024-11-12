@@ -1,4 +1,4 @@
-# VIS 2024 Knowledge Base
+# VIS 2025 Knowledge Base
 
 Information from last year's conference organization can be found at the [2024 Knowledge Base](https://drive.google.com/drive/u/0/folders/1BuqCDkwr0lz5s-E0P_paCuKHIcUJEWOO) and should be used to complete the chair reports. Please work with your co-chairs [2025_roster](https://docs.google.com/spreadsheets/d/1pPRJJbRV_WdVUe4ayrBZMfrPgXIkSyIVRT7nUuhprzE/edit?gid=0#gid=0) to update the document associated with your Organizing Committee position. Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org), or submit a pull request [on github](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
 
