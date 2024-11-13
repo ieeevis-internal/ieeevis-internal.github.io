@@ -38,7 +38,7 @@ All generic email addresses below end with @ieeevis.org !
   - [Program:](mailto:program@ieeevis.org) Tushar Athawale, Michelle Dowling
   - [Archive:](mailto:archive@ieeevis.org) Mukund Raj, Ashley Suh, Nicole Sultanum, Changjian Chen, Fabio Miranda
   - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Arvind Satyanarayan, Lane Harrison, Hendrik Strobelt, Lace Padilla
-  - [VEC_chair](mailto:vec_chair@ieeevis.org) Ross Maciejewski, Gautam Chaudhary
+  - [VEC_chair](mailto:vec_chair@ieeevis.org) Gautam Chaudhary, Rita Borgo
 
 - Area Curation Committee [(area_curation)](mailto:area_curation@ieeevis.org): Yingcai Wu, Danielle Szafir, Helwig Hauser ,Jean-Daniel Fekete, Alexander Lex, Michael Papka
 
