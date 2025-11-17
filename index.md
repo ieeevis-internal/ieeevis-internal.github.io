@@ -89,8 +89,8 @@ All generic email addresses below end with @ieeevis.org !
 <!-- * [Roster](https://docs.google.com/spreadsheets/d/1OUgEmI5KGL3-ba_yVxamdlVrpZYcKRwS/edit#gid=1545341771)
 * [Calendar](https://docs.google.com/spreadsheets/d/11hEQSV6AS-B4vN9T-xvqRQdMlgftQPWjd82WgIseKyA/edit#gid=0) -->
 
-- Call Schedule: [Spreadsheet | Calendar]()
-- Meeting Minutes: [Google Drive]()
+- Call Schedule: [Spreadsheet | Calendar](https://docs.google.com/spreadsheets/d/1D6AIyfUV3cnkIKiubgYnaPVhTwxl4RkRIfFpS-WheE8/edit?usp=sharing)
+- Meeting Minutes: [Google Drive](https://drive.google.com/drive/u/3/folders/1rd-dDr3dx-qF3GP74KA45r3dr52yOCSr)
 - Conference Photos: [drive folder](https://drive.google.com/drive/folders/1vUHPbM7OBizu6jFE-lZiqSDkCgAIxfQn?usp=drive_link)
 - [Infodumps of 2020](https://drive.google.com/drive/u/0/folders/178IERHWBaE9vETwlt_IsfKaAOvl9ZMf2)
 - [Infodumps of 2019](https://drive.google.com/drive/u/0/folders/1P7YcmoY96kTkSbb0TUj-VWmsnd9uwmsP)
