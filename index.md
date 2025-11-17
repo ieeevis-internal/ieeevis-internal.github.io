@@ -1,6 +1,7 @@
 # VIS 2025 Knowledge Base
 
-Information from last year's conference organization can be found at the [2024 Knowledge Base](https://drive.google.com/drive/u/0/folders/1BuqCDkwr0lz5s-E0P_paCuKHIcUJEWOO) and should be used to complete the chair reports. Please work with your co-chairs [2025_roster](https://docs.google.com/spreadsheets/d/1pPRJJbRV_WdVUe4ayrBZMfrPgXIkSyIVRT7nUuhprzE/edit?gid=0#gid=0) to update the document associated with your Organizing Committee position. Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org), or submit a pull request [on github](https://github.com/ieeevis-internal/ieeevis-internal.github.io). Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions).
+Information from last year's conference organization can be found at the [2025 Knowledge Base](https://drive.google.com/drive/u/3/folders/16IJJwMNQXiSksmmhNs_6SWhbuJ9Ug2fJ) and should be used to complete the chair reports. Please work with your co-chairs [2026_roster](https://docs.google.com/spreadsheets/d/1EB86QxAES3khli1hSO2Tmkh3ieO4tzUf_RfCImaSW7M/edit?gid=0#gid=0) to update the document associated with your Organizing Committee position. Please suggest any changes or report bugs for this internal webpage to [archive@ieeevis.org](mailto:archive@ieeevis.org), or submit a pull request [on github](https://github.com/ieeevis-internal/ieeevis-internal.github.io). 
+<!--- Instructions for Adding/Changing Content on the VIS Website [ieeevis.org](ieeevis.org): [link](http://ieeevis.org/instructions). -->
 
 ## Meetings
 
@@ -18,16 +19,16 @@ Attention: Please **add your agenda items** and comments in the Meeting Minutes 
 *
 -->
 
-- Website live: [ieeevis.org](ieeevis.org)
-- Website preview: [staging.ieeevis.org](staging.ieeevis.org)
+- Website live: [ieeevis.org](https://ieeevis.org/)
+- Website preview: [staging.ieeevis.org](https://staging.ieeevis.org)
 - Website editing instruction:[http://ieeevis.org/instructions](http://ieeevis.org/instructions)
-- Discord : See invite -- please write to tech if you didn't get one.
+<!--- - Discord : See invite -- please write to tech if you didn't get one.  -->
 - Twitter: [@ieeevis](https://twitter.com/ieeevis)
 - Conference photos: [drive folder](https://drive.google.com/drive/folders/1vUHPbM7OBizu6jFE-lZiqSDkCgAIxfQn?usp=drive_link)
 
 ## Quick contacts
 
-[Roster](https://docs.google.com/spreadsheets/d/1pPRJJbRV_WdVUe4ayrBZMfrPgXIkSyIVRT7nUuhprzE/edit?gid=0#gid=0)
+[Roster](https://docs.google.com/spreadsheets/d/1EB86QxAES3khli1hSO2Tmkh3ieO4tzUf_RfCImaSW7M/edit?gid=0#gid=0)
 
 All generic email addresses below end with @ieeevis.org !
 
