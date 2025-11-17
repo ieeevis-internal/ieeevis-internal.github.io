@@ -34,55 +34,55 @@ All generic email addresses below end with @ieeevis.org !
 
 - Core ([core_committee](mailto:core_committee@ieeevis.org))
 
-  - [General_Chair:](mailto:general_chair@ieeevis.org) Johanna Schmidt, Kresimir Matković, Barbora Kozlíková, Eduard Gröller
-  - [Finance:](mailto:finance@ieeevis.org) Loretta Auvil, Maria C. Velez, Bhavana Doppalapudi
-  - [Program:](mailto:program@ieeevis.org) Tushar Athawale, Michelle Dowling
-  - [Archive:](mailto:archive@ieeevis.org) Mukund Raj, Ashley Suh, Nicole Sultanum, Changjian Chen, Fabio Miranda
-  - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Arvind Satyanarayan, Lane Harrison, Hendrik Strobelt, Lace Padilla
-  - [VEC_chair](mailto:vec_chair@ieeevis.org) Gautam Chaudhary, Rita Borgo
+  - [General_Chair:](mailto:general_chair@ieeevis.org) TBD
+  - [Finance:](mailto:finance@ieeevis.org) TBD
+  - [Program:](mailto:program@ieeevis.org) Alfie Abdul-Rahman, Tushar Athawale, John Thompson
+  - [Archive:](mailto:archive@ieeevis.org) Changjian Chen, Arpit Narechania
+  - [General Chair Incoming:](mailto:incoming_chairs@ieeevis.org) Khairi Reda
+  - [VEC_chair](mailto:vec_chair@ieeevis.org) TBD
 
-- Area Curation Committee [(area_curation)](mailto:area_curation@ieeevis.org): Yingcai Wu, Danielle Szafir, Helwig Hauser ,Jean-Daniel Fekete, Alexander Lex, Michael Papka
-
-- Area Curation Committee Chairs [(acc_chairs)](mailto:acc_chairs@ieeevis.org): Jean-Daniel Fekete, Alexander Lex
+<!-- - Area Curation Committee [(area_curation)](mailto:area_curation@ieeevis.org): Yingcai Wu, Danielle Szafir, Helwig Hauser ,Jean-Daniel Fekete, Alexander Lex, Michael Papka -->
+ 
+<!-- - Area Curation Committee Chairs [(acc_chairs)](mailto:acc_chairs@ieeevis.org): Jean-Daniel Fekete, Alexander Lex -->
 
 - Main conference ([main_conference_events](mailto:main_conference_events@ieeevis.org))
 
-  - [Overall Paper Chairs (opc):](mailto:opc@ieeevis.org) Melanie Tory, Niklas Elmqvist, Holger Theisel, Petra Specht
-  - [Posters:](mailto:posters@ieeevis.org) Benjamin Bach, Renata Raidou, Alvitta Ottley, Lingyun Yu
-  - [Panels/Tutorials:](mailto:panels_tutorials@ieeevis.org) Qianwen Wang, Kai Lawonn, Leilani Battle
-  - [Short Papers:](mailto:shortpapers@ieeevis.org) Charles Perin, Julian Tierny, Cagatay Turkay, Jiazhi Xia
-  - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) Laura Kösten, John Thompson, Ab Mosca
-  - [Publications:](mailto:publications@ieeevis.org) Minsuk Kahng, Zhicheng Liu, Cindy Xiong
+  - [Overall Paper Chairs (opc):](mailto:opc@ieeevis.org) Melanie Tory, Tobias Isenberg, Alex Endert
+  - [Posters:](mailto:posters@ieeevis.org) Benjamin Bach, Narges Mahyar, Thomas Hoellt, Lingyun Yu
+  - [Panels/Tutorials:](mailto:panels_tutorials@ieeevis.org) Qianwen Wang, Soumya Dutta
+  - [Short Papers:](mailto:shortpapers@ieeevis.org) Emily Wall, Julian Tierny, Cagatay Turkay, Jiazhi Xia
+  - [Inclusivity/Accessibility:](mailto:inclusivity_accessibility@ieeevis.org) Laura Kösten, Sandra Bae
+  - [Publications:](mailto:publications@ieeevis.org) Minsuk Kahng, Devin Lange, Sungahn Ko
 
 - Area Paper Chairs ([apc](mailto:apc@ieeevis.org))
 
- - All areas: Filip Sadlo, Hongfeng Yu, Jaegul Choo, Steffen Koch, Wesley Willett, Elisabeta Marai, Timo Ropinski, Matthew Kay, Daniel Keefe, Marc Streit, Markus Hadwiger, Christoph Garth
+ - All areas: Timo Ropinski, Jessica Hullman, Wesley Willett, Elisabeta Marai, Renata Raidou, Markus Hadwiger, Takayuki Itoh, Charles Perin, Marc Streit, Stefan Bruckner, Hongfeng Yu, Alvitta Ottley, Jörn Kohlhammer
 
 - Overall Paper Chairs + Area Paper Chairs [(pcc)](mailto:pcc@ieeevis.org)
 
 - Infrastructure Committees ([infrastructure_committees](mailto:infrastructure_committees@ieeevis.org))
 
-  - [Student volunteers:](mailto:sv@ieeevis.org) Hyeon Jeon, Yixuan Wang, Magdalena 'Momo' Boucher, Hamza Elhamdadi, Zeyang Huang
-  - [Technology:](mailto:tech@ieeevis.org) Jan Byska, Kelvin Li, Alexander Rind
-  - [Web](mailto:web@ieeevis.org) Harry Li, Shayan Monadjemi, Mashrur Rashik, Mahmood Jasim
-  - [Open_Practices:](mailto:open_practices@ieeevis.org) Laura Garrison, Devin Lange, Lace Padilla
+  - [Student volunteers:](mailto:sv@ieeevis.org) TBD
+  - [Technology:](mailto:tech@ieeevis.org) Alexander Rind, Dominik Moritz, Johannes Knittel, Alex Bock
+  - [Web](mailto:web@ieeevis.org) Shayan Monadjemi, Andrew McNutt, Kaustav Bhattacharjee, Yalong Yang
+  - [Open_Practices:](mailto:open_practices@ieeevis.org) TBD
 
 - Associated Events ([associated_conference_events](mailto:associated_conference_events@ieeevis.org))
 
-  - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) Rewa Wright, Pedro Cruz, Rebecca Ruige Xu
-  - [Doctoral_colloquium:](mailto:doctoral_coll@ieeevis.org) Yunhai Wang, Michael Behrisch, Emily Wall
-  - [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web]() Christoph Heinzl, Tim Gerrits 
-  - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web]() Jereme Haack, Steve Gomez, R. Jordan Crouser
-  - [Vis in practice:](mailto:vip@ieeevis.org) Arjun Srinivasan, Chris Bryan
-  - [Workshops:](mailto:workshops@ieeevis.org) Ross Maciejewski, Petra Isenberg, Michael Papka, Arvind Satyanarayan, Ana Crisan
+  - [Art Program:](mailto:art@ieeevis.org) - [web](https://visap.net/) TBD
+  - [Doctoral_colloquium:](mailto:doctoral_coll@ieeevis.org) Michael Correll, Michael Behrisch, Cindy Xiong
+  - [SciVis_contest:](mailto:scivis_contest@ieeevis.org) - [web]() TBD 
+  - [Vast_challenge:](mailto:vast_challenge@ieeevis.org) - [web]() TBD
+  - [Vis in practice:](mailto:vip@ieeevis.org) TBD
+  - [Workshops:](mailto:workshops@ieeevis.org) Ana Crisan, Tim Gerrits, Leilani Battle
 
 - Outreach ([outreach](mailto:outreach@ieeevis.org))
 
-  - [Supporters:](mailto:supporters@ieeevis.org) Michael Krone, Victor Mateevitsi, Chris Traxler, Dominik Moritz
-  - [Community/Meetups/Election:](mailto:community@ieeevis.org) Isaac Cho, Kyle Wm. Hall, Georgia Panagiotidou
-  - [Publicity:](mailto:publicity@ieeevis.org) Khairi Reda, Alex Kale
+  - [Supporters:](mailto:supporters@ieeevis.org) Fred Hohman, Kanit Wongsuphasawat, Lisa Avila
+  - [Community/Meetups/Election:](mailto:community@ieeevis.org) Kyle Wm. Hall, Lijie Yao
+  - [Publicity:](mailto:publicity@ieeevis.org) Khairi Reda, Keke Wu
 
-- Ombuds ([ombuds](mailto:ombuds@ieeevis.org)): Joshua Levine, Jordan Crouser, Alfie Abdul Rahman, Katerina Vrotsou, Menna El Assady, Lace Padilla
+- Ombuds ([ombuds](mailto:ombuds@ieeevis.org)): TBD
 
 ## Documents
 
@@ -97,6 +97,7 @@ All generic email addresses below end with @ieeevis.org !
 
 ## Archive of this page for previous years
 
+- [2025](2025.md)
 - [2024](2024.md)
 - [2023](2023.md)
 - [2022](2022.md)
